@@ -1,0 +1,87 @@
+---
+title: "Why Nvidia is betting on silicon photonics to scale AI"
+subtitle: "By moving optics right next to the chips that run those networks, Nvidia aims to ease one of AI’s central data bottlenecks—and make itself even harder for the industry to do without"
+author: "Adam Rogers"
+date: "2026-11-17"
+category: "Artificial Intelligence"
+read_time: "5 min read"
+hero_image: "https://static.scientificamerican.com/dam/asset/34fde3a6-3621-48ab-920c-bf89549c985a/saw1226_0127Indu01.jpg?m=1793730128.139&w=1200"
+source_url: "https://www.scientificamerican.com/article/why-nvidia-is-betting-on-silicon-photonics-to-scale-ai/"
+slug: "why-nvidia-is-betting-on-silicon-photonics-to-scale-ai"
+---
+
+# Why Nvidia is betting on silicon photonics to scale AI
+
+*By moving optics right next to the chips that run those networks, Nvidia aims to ease one of AI’s central data bottlenecks—and make itself even harder for the industry to do without*
+
+**By Adam Rogers** | Edited by Eric Sullivan &bull; **2026-11-17** &bull; 5 min read
+
+![Why Nvidia is betting on silicon photonics to scale AI](https://static.scientificamerican.com/dam/asset/34fde3a6-3621-48ab-920c-bf89549c985a/saw1226_0127Indu01.jpg?m=1793730128.139&w=1200)
+
+---
+
+Nvidia already sells most AI chips. Now it’s rewiring the networks between them with light
+
+
+![The small rectangles lining Nvidia’s Quantum-X (left) and Spectrum-X photonics switch-chip packages turn the main chips’ electrical signals into light and back again. Nvidia](https://static.scientificamerican.com/dam/asset/34fde3a6-3621-48ab-920c-bf89549c985a/saw1226_0127Indu01.jpg?m=1793730128.139&amp;w=600)
+*The small rectangles lining Nvidia’s Quantum-X (left) and Spectrum-X photonics switch-chip packages turn the main chips’ electrical signals into light and back again. Nvidia*
+
+
+Editor’s Note (11/23/26): This story was reported before the recent controversy surrounding Nvidia co-founder Jensen Huang, who resigned as the company’s CEO on November 12 and was reinstated on November 23. It has been updated to reflect his return.
+
+Maybe a company that designs around 85 percent of the graphics chips the world uses for artificial intelligence and has topped $5 trillion in market value is allowed to crow a bit. When corporations get this big, they build arcologies—self-contained, spaceship-looking headquarters. Nvidia’s monumental, midcentury-styled, vaguely pyramidal buildings loom amid a cluster of more normal office parks in Santa Clara, Calif., at the southern end of San Francisco Bay. Inside, staircases and mezzanines overlook a huge atrium, evoking, somewhat disquietingly, the prison labor camp from the Star Wars TV show Andor, if that camp had gray accent walls and swapped its electroshock floors for coffee nooks.
+
+Anyway, as in ancient Egypt, these pyramids are mostly symbolic. The real action is a car ride away, at an engineering laboratory in a location I agreed to keep secret. Here Nvidia’s technologists have splayed open a few of the things they make. One is an older rack-mounted server, a computer built into a drawer that slides into the tall, narrow racks that, arrayed together, make a data center. This one’s brains are a couple of graphics processing units, or GPUs, the type of chip that made Nvidia wealthy, plus the various guts that keep them cool and connected. Then there’s a newer version: many of the parts are housed in modules that can be swapped in and out like a gun’s ammo magazines, and instead of a row of small electric fans to keep everything at a happy temperature, it has ducts and copper tubes that carry coolant. All these things improve reliability and speed up installation and repairs; when you’re selling zillions, a few minutes here and there really add up.
+
+But the coolest thing is another device that slides into those racks—one that’s more about connectivity than computation. It turns out moving data can be a bigger bottleneck than doing the math. So Nvidia’s newest switches bring electrons and photons—two nonoverlapping magisteria in the world of computing—together in one package. It’s called co-packaged optics, and it’s proof that the vast scale of Nvidia’s Santa Clara arcology matters a lot less than the subatomic scale of electrons handing off trillions of bits to photons each second. AI needs thousands of chips to act together as one enormous computer, which works only if they talk to one another fast enough. Nvidia already sells most of those chips. If the company also controls the way they communicate, it could set the pace for the next phase of the AI boom.
+
+Every computer combines a math-doing part with a data part—computation and memory. That division is central to the von Neumann architecture, the basic paradigm for computers since World War II. Data move back and forth between the two in the binary language of computation, “ones” and “zeroes” represented by different voltages, all of it zipping along copper wires or vanishingly thin traces on a circuit board.
+
+Which is great. Copper is relatively cheap. It’s durable. It’s reliable. “The rule is simple,” says Gilad Shainer, Nvidia’s senior vice president of networking. “Use copper whenever you can.”
+
+But sometimes you can’t. Copper’s your pal if you’re moving electrons over short distances, like those inside a single computer, or at relatively low bandwidth, like your home ethernet’s. A large data center, though, can involve tens or even hundreds of thousands of computers working together over a space the size of a warehouse or an airport, and modern AI relies on vast quantities of data moving rapidly between all that compute and memory. “One compute processor is not enough. One memory is not enough,” says Sudip Shekhar, an electrical and computer engineer at the University of British Columbia. “So we try to have lots and lots of compute and lots and lots of memory, and we need to interconnect them.”
+
+
+> The real action is a car ride away, at an engineering lab in a location I agreed to keep secret.
+
+
+More copper equals more problems. Electrons resist flowing together and, because they carry a charge, repel one another. To make them go, you need power. The copper acts like a filter, smearing crisp electrical pulses into a garbled mess. Noise distorts the signal. Photons, though, are more easygoing. They carry no charge and hardly even interact with one another. Shoot a laser through a thread of glass, and the light can carry information with negligible loss for several kilometers—or, with the right amplification, across oceans.
+
+Except now you need a way to hand data off from electrons, the stuff of computation, to photons, the stuff of communication, and back again. The device that does that is called a transceiver. If you’re laying transoceanic fiber-optic cables or something, transceivers can be big, power-hungry technology built from boutique semiconductors such as indium phosphide. Compared with the cost of a ship unspooling fiber in the mid-Atlantic, who cares? But in a data center, stuck into rack switches and replaced every few years, they have to be cheaper and smaller. They have to be commodities. That means silicon.
+
+Inside a rack, though, copper’s still plenty good enough to connect the servers to one another, so that copper goes in a big vertical cable in the back. Racks talk to other racks through switches, and into the front of each switch you plug transceivers roughly the size and shape of a candy bar. Plugged into those are links made of fiber-optic cables.
+
+That, too, has disadvantages—or rather the imperfect humans doing the plugging and unplugging do. Every time they put a transceiver in or take one out, it jostles the ones next to it, which are then likely to fail. “It can wiggle. It can move. It has a physical connector that can move. There’s pins and solder joints and epoxy,” says Craig Thompson, Nvidia’s vice president of interconnect products. “Our goal was to strip all that away.”
+
+Walking among the experimental racks, Shainer points to the older switches. “A human present in a data center is responsible for 5 percent of downtime,” he says. “Once you touch it ...” Shainer shakes his head. It’s a pity, really.
+
+One of the key metrics for these data centers is MTBI: mean time between interruptions. Every hiccup could sideline expensive equipment, so the longer the MTBI, the better. That’s why in Nvidia’s newest version the optics move inside the device, into a single package.
+
+
+![The sprawling Santa Clara, Calif., headquarters of Nvidia is a monument to an empire built on chips just a few centimeters across.Nvidia](https://static.scientificamerican.com/dam/asset/21ddd288-14a8-47e6-8b27-032ee20008d5/saw1226_0127Indu02.jpg?m=1793730323.574&amp;w=900)
+*The sprawling Santa Clara, Calif., headquarters of Nvidia is a monument to an empire built on chips just a few centimeters across.Nvidia*
+
+
+Shainer walks me over to the new switch, another drawer designed to slot into a server rack. Fiber-optic cables plug right into the front. There’s more optic fiber braided inside. And in the center is a big, square computer chip with what look like smaller chips along its sides. Those smaller chips replace the old transceivers; they’re photonic chips on top of electronic chips, and they talk to one another. “Our modeling has shown that we can get at least a 10-times improvement in mean time between interruptions,” Thompson says.
+
+Plus! It needs less power, which also means less heat to deal with. Many of those old transceivers had their own little lasers, plus a chip whose whole job was cleaning up the electrical signal after its trip from the switch chip. Together they drew something like 25 watts per transceiver, and a single switch had dozens. Across a data center they could eat up 10 percent of the power, month after month. Put the optics right next to the switch chip so the signal barely has to travel, and the same electric bill buys more computing.
+
+And, wow, is there ever demand for that computing. Since OpenAI released ChatGPT, in 2022, the race to build bigger data centers has exploded. In 2025, U.S. data center servers used more than 100 terawatt-hours of electricity. The world’s AI computing capacity is doubling every seven months, and Nvidia supplies most of it. It’s all so big that economists worry about the amount of the American economy riding on a handful of AI companies. By one estimate, the AI-infrastructure build-out is on track to claim a bigger share of gross domestic product than construction of the interstate highway system did in the mid-20th century or even the railroads in the late 19th.
+
+Nvidia got big making graphics chips for gaming systems. Many modern games “consume a huge amount of compute and memory and have to constantly transfer memory to the GPUs for processing,” says Christina Delimitrou, a computer scientist and data center expert at the Massachusetts Institute of Technology. “In that sense, AI operations were molded to fit GPU architectures.” But the company has since transformed itself. Nvidia has been pushing past chips and into networking—computers talking to other computers, data centers talking to other data centers. Since buying the networking specialist Mellanox, in 2020, the company increasingly has sold its processors as parts of coordinated systems. “They have done a good job in identifying that while with gaming you typically have a single GPU doing the work, AI models now run distributed,” Delimitrou says. “Networking becomes a big bottleneck.” That’s what co-packaged optics is supposed to help ease.
+
+It’s a race. Nvidia’s networking rival Broadcom is already on its third generation of co-packaged switches, and Advanced Micro Devices and Intel have pursued similar tech. But selling all those chips means Nvidia has the money to help build the industry it needs. “They were able to build a team. Several of my students work at Nvidia,” Shekhar says. “They also wrote checks.” Nvidia has worked with chip foundries to develop manufacturing processes for photonic circuits; it has invested in laser makers such as Coherent and Lumentum to help them expand production. It’s good tech and smart business—building up a silicon photonics ecosystem and getting dibs on the parts. “It’s the same with memory,” Shekhar says. “High-bandwidth memory is in short supply, and Nvidia has most of it.”
+
+Now that optics sit right next to networking chips, the processors themselves could be next. Maybe light will someday move data not just among servers but within one. Chipmakers would love to build ever bigger processors, but they keep running into something called the reticle limit. The physics of light and chipmaking mean a single processor chip can’t be much bigger than about 850 square millimeters, so to go bigger, companies stitch several smaller chips together inside one package. Those chips talk over fine copper traces, and as the traces get packed closer and closer together, copper becomes a problem again. Signals start leaking from one trace into its neighbors, a kind of electromagnetic interference called cross talk. Photons might work better for those short hops. “It could be a meter or less, or it could be a bigger photonic chip or a glass carrier that moves information,” Shekhar says.
+
+That all seemed comfortably distant to me until I opened my Nvidia gift bag. Everyone who visits the engineering lab gets one. Ordinarily I wouldn’t accept something like that, but I have to be honest, I really wanted to know what could possibly be in it. It was so heavy.
+
+Inside was a black box containing a model of a server rack. It was, again, a question of scale: the rack was about 15 centimeters high, with the Nvidia wordmark in gold on one side and CEO Jensen Huang’s signature on the other. The base had “2026” written on it. The whole thing came apart like a 3D puzzle, as a real server rack does. The stacks on the back that would be the copper interconnects came off, the grille on the back came off, and all the individual rack servers, the “drawers,” slid in and out. Everything was injection-molded with details it’d have in the real world—where the chips are, conduits, and so on. The model had network interconnects, too. I popped them out, and as far as I could tell, they were the old kind from before co-packaged optics.
+
+That’s how fast this technology is moving. My gift-bag toy server rack was the 2026 edition, and it was already becoming obsolete.
+
+---
+### About the Author(s)
+*Adam Rogers is a journalist covering science, technology and culture. A former editor at Wired and senior correspondent at Business Insider, he lives in the San Francisco Bay Area.*
+
+*Subscriptions keep this engine running so we can continue to deliver thoughtful, rigorous and independent science journalism to you. In an era of viral misinformation, this work is crucial. If you value what we do, I hope you’ll consider joining us as a subscriber*

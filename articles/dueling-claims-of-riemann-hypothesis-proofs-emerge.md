@@ -1,0 +1,46 @@
+---
+title: "Dueling claims of Riemann hypothesis proofs emerge"
+subtitle: "Mere hours after a blockbuster announcement of an AI-assisted solution to the most famous problem in math, a second claim has emerged"
+author: "Joseph Howlett"
+date: "2026-11-20"
+category: "Mathematics"
+read_time: "5 min read"
+hero_image: "https://static.scientificamerican.com/dam/asset/5a454f85-c214-4a50-baa8-5ad368ab6e35/shutterstock_2026898477-Converted.jpg?m=1795204023.103&w=1200"
+source_url: "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/"
+slug: "dueling-claims-of-riemann-hypothesis-proofs-emerge"
+---
+
+# Dueling claims of Riemann hypothesis proofs emerge
+
+*Mere hours after a blockbuster announcement of an AI-assisted solution to the most famous problem in math, a second claim has emerged*
+
+**By Joseph Howlett** | Edited by Lee Billings, Claire Cameron &bull; **2026-11-20** &bull; 5 min read
+
+![Dueling claims of Riemann hypothesis proofs emerge](https://static.scientificamerican.com/dam/asset/5a454f85-c214-4a50-baa8-5ad368ab6e35/shutterstock_2026898477-Converted.jpg?m=1795204023.103&w=1200)
+
+---
+
+
+![Lonvero/Shutterstock](https://static.scientificamerican.com/dam/asset/5a454f85-c214-4a50-baa8-5ad368ab6e35/shutterstock_2026898477-Converted.jpg?m=1795204023.103&amp;w=600)
+*Lonvero/Shutterstock*
+
+
+The latest explosion in the “mathocalypse,” like many before it, is already igniting controversy just hours after it happened.
+
+This morning Anthropic employee Levent Alpöge posted a Claude-generated proof that he claimed solved the Riemann hypothesis, the most famous open problem in all of mathematics, using a large language model. The claim goes even further, stating that the proof has resolved the much stronger and harder generalized Riemann hypothesis.
+
+But now two top mathematicians are saying that a human may have produced just such a proof months ago, purportedly without any assistance from artificial intelligence. Such a proof would be the most remarkable mathematical achievement in decades, all the more notable for being accomplished by a person amid the ongoing AI arms race to conquer math. But the proof has not actually been verified by anyone—and other mathematicians are already expressing skepticism of its validity.
+
+The human claim was posted by Ravi Vakil, president of the American Mathematical Society and a mathematician at Stanford University. He said in blog post on Friday that the prover was Alessandro Masullo, a young mathematician, also at Stanford. According to the post, the proof was in the hands of Brian Conrad, a Stanford mathematician and an expert on the subject, who has been giving Masullo feedback over the past few months. Conrad has confirmed to Scientific American that the details of the blog post are true.
+
+Asked directly whether he thinks Masullo’s work will prove valid, Conrad says more work is needed. “To judge the success of the method requires the paper to reach a stage of more final revision,” he says. “It’s undergoing major revision.”
+
+As to why the decision was made to post Masullo’s work, Conrad says the choice was between “two unpalatable options”: either announce it now, as was done via Vakil’s blog post, or “remain silent and let a period of time go by, only to post something later.”
+
+Editor’s Note (11/20/26): This is a developing story and will be updated.
+
+---
+### About the Author(s)
+*Joseph Howlett is a senior reporter at Scientific American covering physics, math, astronomy, and more. He was previously a math staff writer at Quanta Magazine and holds a Ph.D. in particle physics from Columbia University.*
+
+*Subscriptions keep this engine running so we can continue to deliver thoughtful, rigorous and independent science journalism to you. In an era of viral misinformation, this work is crucial. If you value what we do, I hope you’ll consider joining us as a subscriber*

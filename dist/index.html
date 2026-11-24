@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scientific American — Unpaywalled Editorial Archive & Reader</title>
+  <meta name="description" content="Complete unpaywalled editorial archive of Scientific American articles. High-resolution figures, distraction-free reading typography, full offline search, and auto-updating synchronization.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/reader.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23b91c1c'/><text x='50%' y='68%' font-size='60' font-family='serif' font-weight='bold' fill='white' text-anchor='middle'>S</text></svg>">
+</head>
+<body>
+
+  <!-- Masthead & Navigation -->
+  <header class="masthead-wrapper">
+    <div class="top-bar">
+      <div class="top-bar-left">
+        <span class="live-badge"><span class="live-dot"></span> CONTINUOUS CLOUD ARCHIVE</span>
+        <span>•</span>
+        <span>Updated Every 3 Hours</span>
+      </div>
+      <div class="top-bar-right">
+        <button id="themeToggleBtn" class="theme-btn" title="Toggle Theme (Light / Sepia / Dark)">☀️ Light</button>
+        <a href="https://github.com/anshuk-dev/scientific-american-archive" target="_blank" rel="noopener noreferrer" class="icon-btn" title="View Source on GitHub">
+          GitHub Repo ↗
+        </a>
+      </div>
+    </div>
+
+    <div class="masthead">
+      <a href="#" class="brand-title" onclick="window.location.hash=''; return false;">
+        SCIENTIFIC <span>AMERICAN</span>
+      </a>
+      <p class="masthead-tagline">The Premier Unpaywalled Editorial Library &amp; Reading Room</p>
+    </div>
+
+    <!-- Category Tabs -->
+    <nav class="category-nav-scroll" aria-label="Article categories">
+      <div class="category-nav">
+        <button class="cat-tab active" data-cat="all">All Topics</button>
+        <button class="cat-tab" data-cat="space-physics">Space &amp; Physics</button>
+        <button class="cat-tab" data-cat="health-medicine">Health &amp; Medicine</button>
+        <button class="cat-tab" data-cat="math-tech">Math &amp; Technology</button>
+        <button class="cat-tab" data-cat="environment">Environment &amp; Climate</button>
+        <button class="cat-tab" data-cat="biology">Evolution &amp; Biology</button>
+        <button class="cat-tab" data-cat="bookmarks">★ Saved Articles</button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Control & Search Bar -->
+  <section class="controls-container">
+    <div class="search-box-wrapper">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" id="searchInput" class="search-input" placeholder="Search by title, topic, author, or keyword (Press '/' to focus)..." autocomplete="off" spellcheck="false">
+    </div>
+
+    <div class="filters-group">
+      <label for="sortSelect" style="display:none;">Sort by</label>
+      <select id="sortSelect" class="select-filter">
+        <option value="newest">Sort: Newest First</option>
+        <option value="oldest">Sort: Oldest First</option>
+        <option value="reading-time">Sort: Longest Read</option>
+        <option value="word-count">Sort: Highest Word Count</option>
+      </select>
+      <span id="countStats" class="stats-counter">Loading...</span>
+    </div>
+  </section>
+
+  <!-- Main Articles Feed -->
+  <main class="main-container">
+    <div id="articlesGrid" class="articles-grid">
+      <!-- Article Cards Dynamically Injected Here -->
+    </div>
+  </main>
+
+  <!-- Fullscreen Distraction-Free Reader Modal -->
+  <div id="readerModal" class="reader-modal" role="dialog" aria-modal="true">
+    <div id="readerProgressBar" class="reader-progress-bar"></div>
+    
+    <div class="reader-top-bar">
+      <button id="readerBackBtn" class="reader-back-btn" title="Back to Archive (Esc)">
+        &larr; Back to Archive
+      </button>
+
+      <div class="reader-controls">
+        <button id="readerFontToggle" class="reader-action-btn" title="Toggle Font">Font: Serif</button>
+        <button id="readerSizeDec" class="reader-action-btn" title="Decrease font size">A-</button>
+        <button id="readerSizeInc" class="reader-action-btn" title="Increase font size">A+</button>
+        <button id="readerBookmarkBtn" class="reader-action-btn" title="Save / Bookmark">☆ Save</button>
+        <button id="readerShareBtn" class="reader-action-btn" title="Copy share link">Share</button>
+        <a id="readerOrigLink" href="#" target="_blank" rel="noopener noreferrer" class="reader-action-btn" title="Read on original Scientific American website">
+          Original ↗
+        </a>
+      </div>
+    </div>
+
+    <article class="reader-article-container">
+      <div id="readerArticleBody">
+        <!-- Rendered Full Editorial Article Injected Here -->
+      </div>
+    </article>
+  </div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <p>Scientific American Editorial Archive &bull; Unpaywalled Research &amp; Educational Collection</p>
+    <div class="footer-links">
+      <a href="https://www.scientificamerican.com" target="_blank" rel="noopener noreferrer">Scientific American Home</a>
+      <span>&bull;</span>
+      <a href="https://github.com/anshuk-dev/scientific-american-archive" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+      <span>&bull;</span>
+      <a href="CATALOG.md" target="_blank">Full Article Catalog</a>
+    </div>
+  </footer>
+
+  <script src="js/reader.js"></script>
+</body>
+</html>

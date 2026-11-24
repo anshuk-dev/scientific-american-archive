@@ -1,0 +1,51 @@
+---
+title: "Acorns—not deer—can predict a rise in Lyme-spreading ticks"
+subtitle: "Despite deer’s essential role in tick reproduction, looking to acorn numbers instead can forecast Lyme disease booms almost two years in advance"
+author: "Clarissa Brincat"
+date: "2026-11-08"
+category: "Ecology"
+read_time: "5 min read"
+hero_image: "https://static.scientificamerican.com/dam/asset/495dfb69-c48d-4db7-b1cc-3b6164a1d4e1/saw-GettyImages-130888795.jpg?m=1793997273.101&w=1200"
+source_url: "https://www.scientificamerican.com/article/acorns-not-deer-can-predict-a-rise-in-lyme-spreading-ticks/"
+slug: "acorns-not-deer-can-predict-a-rise-in-lyme-spreading-ticks"
+---
+
+# Acorns—not deer—can predict a rise in Lyme-spreading ticks
+
+*Despite deer’s essential role in tick reproduction, looking to acorn numbers instead can forecast Lyme disease booms almost two years in advance*
+
+**By Clarissa Brincat** | Edited by Sarah Lewin Frasier &bull; **2026-11-08** &bull; 5 min read
+
+![Acorns—not deer—can predict a rise in Lyme-spreading ticks](https://static.scientificamerican.com/dam/asset/495dfb69-c48d-4db7-b1cc-3b6164a1d4e1/saw-GettyImages-130888795.jpg?m=1793997273.101&w=1200)
+
+---
+
+
+![Peromyscus leucopus. Bill Draker/Getty Images](https://static.scientificamerican.com/dam/asset/495dfb69-c48d-4db7-b1cc-3b6164a1d4e1/saw-GettyImages-130888795.jpg?m=1793997273.101&amp;w=600)
+*Peromyscus leucopus. Bill Draker/Getty Images*
+
+
+Join Our Community of Science Lovers!
+
+If you hear “deer tick,” chances are you think “Lyme disease.” The infection spreads when diseased black-legged ticks, often in their young, nymph state, bite unlucky hosts, including humans. These arachnids feed and mate on white-tailed deer, hence the nickname. But if you want to predict the risk of Lyme disease, don’t look at the deer—count acorns instead.
+
+That’s the takeaway from a 35-year study of forested areas in New York State, published in Proceedings of the National Academy of Sciences USA. The research highlights a chain of events that helps to spread the disease: If red oak acorns are abundant during the fall, more white-footed mice have food to survive the winter, and their population booms the next summer. These mice are ideal hosts for tick larvae, which are far more likely to survive to the nymph stage after feeding on mice than on other animals. Mice are also highly efficient at infecting the ticks that bite them with the Lyme bacterium. The more mice one year, the more tick nymphs the next—and the likelihood of human Lyme infection is largely determined by the number of nymphs near people outdoors.
+
+“We can predict which years will be really bad [for Lyme infections] almost two years in advance based on acorn production,” says Richard Ostfeld, lead study author and a senior scientist at the Cary Institute of Ecosystem Studies in upstate New York.
+
+
+![Diogo Guerra](https://static.scientificamerican.com/dam/asset/7aa104f1-4fce-44a7-af9d-86a08c23c526/saw1226_0127Adva33_d_TEXT.png?m=1793638322.04&amp;w=900)
+*Diogo Guerra*
+
+
+The study solidifies earlier work from the same team suggesting that acorns and mice affect the number of tick nymphs, says Columbia University disease ecologist Maria Diuk-Wasser, who wasn’t involved in the study. “Thirty-five years of research on any ecological system is really incredible because long-term studies are very rare in any field, especially in tick-borne diseases,” she says. She notes, however, that the role of deer should not be downplayed. Adult ticks feed on deer blood before laying eggs, so “you can’t have ticks without deer,” Diuk-Wasser says. Indeed, previous research has shown that reducing deer populations to very low levels does limit ticks. But where deer are abundant, as in this study, adding or losing a few animals doesn’t seem to affect tick numbers. She also notes that the study indicates an increase in nymphs but not necessarily in those carrying Lyme bacteria, as ticks may also bite animals that transmit the bacterium less efficiently.
+
+In a further wrinkle, the researchers found that warmer weather increased mouse numbers but decreased nymphal ticks. Diuk-Wasser speculates that in warmer winters ticks might stay active and burn their lipid reserves instead of hibernating, dying before the summer.
+
+For now, climate change’s net effect on Lyme disease risk is still unclear. “Climate warming seems to allow the ticks to expand into new areas that were formerly too harsh, but once ticks are established, warming might not cause populations to grow,” Ostfeld says.
+
+---
+### About the Author(s)
+*Clarissa Brincat is a freelance science and health journalist based in Europe.*
+
+*Subscriptions keep this engine running so we can continue to deliver thoughtful, rigorous and independent science journalism to you. In an era of viral misinformation, this work is crucial. If you value what we do, I hope you’ll consider joining us as a subscriber*

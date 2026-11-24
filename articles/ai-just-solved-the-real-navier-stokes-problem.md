@@ -1,0 +1,46 @@
+---
+title: "AI just solved the ‘real’ Navier-Stokes problem"
+subtitle: "Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup"
+author: "Peter Hall"
+date: "2026-11-20"
+category: "Mathematics"
+read_time: "5 min read"
+hero_image: "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200"
+source_url: "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
+slug: "ai-just-solved-the-real-navier-stokes-problem"
+---
+
+# AI just solved the ‘real’ Navier-Stokes problem
+
+*Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup*
+
+**By Peter Hall** | Edited by Joseph Howlett &bull; **2026-11-20** &bull; 5 min read
+
+![AI just solved the ‘real’ Navier-Stokes problem](https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200)
+
+---
+
+After months of controversy, AI finally solved the ‘real’ Navier-Stokes problem
+
+
+![A visual representation of fluid dynamics. Researchers from New York University and Anthropic claimed to have solved the “real” version of the Navier-Stokes equations, which model fluid movement. teerawut_0/Shutterstock](https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&amp;w=600)
+*A visual representation of fluid dynamics. Researchers from New York University and Anthropic claimed to have solved the “real” version of the Navier-Stokes equations, which model fluid movement. teerawut_0/Shutterstock*
+
+
+It looks like Anthropic employee Levent Alpöge was not satisfied with one blockbuster math proof today. Right after Alpöge’s announcement of a claimed proof of the Riemann hypothesis—math’s most famed open problem—has come the news that he and New York University professor Tristan Buckmaster believe they have closed a controversial loophole in OpenAI’s September solution of another million-dollar problem.
+
+The Navier-Stokes equations, dating back to the early- to mid-19th century, model how fluids swirl and eddy. In September OpenAI proved that the equations “blow up,” meaning they occasionally claim that a fluid’s speed becomes infinite—something real fluids cannot do.
+
+But while the September solution technically satisfied the conditions for the Clay Mathematics Institute’s $1-million prize, many experts were left unsatisfied with how it did so. OpenAI’s proof imagined an unrealistic, finely tuned force that “stirs” the liquid in just the right way to produce infinite velocity—an approach many consider a loophole in the wording of the problem.
+
+The proof was also the subject of controversy because Buckmaster claimed it was a deliberate attempt on the part of OpenAI to scoop his and Alpöge’s progress on the problem. Buckmaster publicly aired his suspicions that the company even stole his user data in its mad race to beat him to the punch. (OpenAI denied allegations of foul play, and early reports suggest the company’s proof may have taken a different route to the solution than Buckmaster and Alpöge’s work.)
+
+Now the pair claims to have taken back the lead on the problem, closing the loophole OpenAI left open and providing the solution to Navier-Stokes that experts have long sought.
+
+On Mastodon at 8:37 A.M. EST this morning, Buckmaster posted a dense, artificial-intelligence-aided proof and noted that the write-up was unpolished because, “after last time,” he and Alpöge “couldn’t risk waiting” because of concerns over getting scooped. In the rush, the two also did not release the certificate of the result. In the report, they claimed it would be released soon.
+
+---
+### About the Author(s)
+*Peter Hall is an artificial intelligence and technology reporter and is currently working as an editorial fellow at Scientific American, a role supported by the Tarbell Center for AI Journalism. His writing has appeared in MIT Technology Review, Science, Quanta Magazine, and more. He holds a Ph.D. in computer science from New York University.*
+
+*Subscriptions keep this engine running so we can continue to deliver thoughtful, rigorous and independent science journalism to you. In an era of viral misinformation, this work is crucial. If you value what we do, I hope you’ll consider joining us as a subscriber*

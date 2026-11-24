@@ -1,0 +1,75 @@
+name: Sync Articles & Deploy Reader
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'dist/**'
+      - 'scripts/**'
+      - 'scraper.py'
+      - '.github/workflows/update-articles.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  sync-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Scraper for New Articles
+        run: |
+          python3 scraper.py --limit 60 --workers 6
+
+      - name: Compile Reader Bundles
+        run: |
+          python3 scripts/build_reader.py
+          cp CATALOG.md dist/CATALOG.md || true
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles/ articles_index.json CATALOG.md dist/
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-sync: update Scientific American articles [skip ci]"
+            git push origin main
+          else
+            echo "No new articles to commit."
+          fi
+
+      - name: Upload GitHub Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: sync-and-build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

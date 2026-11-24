@@ -1,0 +1,69 @@
+---
+title: "Hundreds of stunning ice age drawings discovered inside Spanish cave"
+subtitle: "The find includes 280 engravings, including 55 depictions of animals"
+author: "Jackie Flynn Mogensen"
+date: "2026-11-05"
+category: "Archaeology"
+read_time: "5 min read"
+hero_image: "https://static.scientificamerican.com/dam/asset/0446bdc1-d2d6-4d62-a6c0-0eadd09cc899/horse.jpg?m=1793891434.85&w=1200"
+source_url: "https://www.scientificamerican.com/article/hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave/"
+slug: "hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave"
+---
+
+# Hundreds of stunning ice age drawings discovered inside Spanish cave
+
+*The find includes 280 engravings, including 55 depictions of animals*
+
+**By Jackie Flynn Mogensen** | Edited by Claire Cameron &bull; **2026-11-05** &bull; 5 min read
+
+![Hundreds of stunning ice age drawings discovered inside Spanish cave](https://static.scientificamerican.com/dam/asset/0446bdc1-d2d6-4d62-a6c0-0eadd09cc899/horse.jpg?m=1793891434.85&w=1200)
+
+---
+
+
+![An engraving depicting a horse. “Filling Gaps: The Palaeolithic Rock Art of the Cova de la Font Major on the North-east Iberian Peninsula,” by Josep Maria Vergès Bosch and Míriam Salas-Altès, in Antiquity. Published online November 5, 2026](https://static.scientificamerican.com/dam/asset/0446bdc1-d2d6-4d62-a6c0-0eadd09cc899/horse.jpg?m=1793891434.85&amp;w=600)
+*An engraving depicting a horse. “Filling Gaps: The Palaeolithic Rock Art of the Cova de la Font Major on the North-east Iberian Peninsula,” by Josep Maria Vergès Bosch and Míriam Salas-Altès, in Antiquity. Published online November 5, 2026*
+
+
+Join Our Community of Science Lovers!
+
+For decades, Cova de la Font Major has been a tourist destination in northeastern Spain. Despite all the visitors who have passed through the cave, only now are archaeologists revealing its secret: hundreds of stunning ice age rock engravings, including a rare depiction of a bear.
+
+In a new study published in the journal Antiquity this week, researchers describe the discovery of 280 Paleolithic engravings at the large, underground cave in Espluga de Francolí, Spain. The cave was first excavated in 1957—since then thousands of people have likely been in it, and some even graffitied the walls without realizing they were disturbing ice age art, the researchers say.
+
+The find is among the largest collections of cave art on the Iberian Peninsula. The engravings include 55 animal figures such as horses, deer and at least one bear, as well as less recognizable forms, such as parallel lines and an unusual group of loops.
+
+
+![Engravings of parallel lines (top) and loops (bottom).“Filling Gaps: The Palaeolithic Rock Art of the Cova de la Font Major on the North-east Iberian Peninsula,” by Josep Maria Vergès Bosch and Míriam Salas-Altès, in Antiquity. Published online November 5, 2026](https://static.scientificamerican.com/dam/asset/cb338d24-20ff-45c4-8259-a359faa3c041/scribbles.jpg?m=1793891640.412&amp;w=900)
+*Engravings of parallel lines (top) and loops (bottom).“Filling Gaps: The Palaeolithic Rock Art of the Cova de la Font Major on the North-east Iberian Peninsula,” by Josep Maria Vergès Bosch and Míriam Salas-Altès, in Antiquity. Published online November 5, 2026*
+
+
+It’s unclear how the engravings went so long without being noticed. In a dark cave, it may have been harder to spot the etchings than other forms of rock art such as paintings, says Míriam Salas-Altès, a co-author of the paper and a Ph.D. student at University of Rovira i Virgili and the Catalan Institute of Human Paleoecology and Social Evolution (IPHES-CERCA), both in Spain.
+
+Even wearing a helmet with a forward-facing light might not fully illuminate markings either. And the walls are “full” of graffiti, Salas-Altès says. To the untrained eye, Paleolithic engravings may have been difficult to differentiate from modern markings, she adds.
+
+
+![Bear engraving.“Filling Gaps: The Palaeolithic Rock Art of the Cova de la Font Major on the North-east Iberian Peninsula,” by Josep Maria Vergès Bosch and Míriam Salas-Altès, in Antiquity. Published online November 5, 2026](https://static.scientificamerican.com/dam/asset/2fc15090-2a4b-43c6-a964-2ca6e06a56e0/bear.jpg?m=1793891701.059&amp;w=900)
+*Bear engraving.“Filling Gaps: The Palaeolithic Rock Art of the Cova de la Font Major on the North-east Iberian Peninsula,” by Josep Maria Vergès Bosch and Míriam Salas-Altès, in Antiquity. Published online November 5, 2026*
+
+
+This type of cave art is also rare for this part of Spain. Before now, most Paleolithic cave art in the area has been found in the Franco-Cantabrian region, an area spanning the border of Spain and France. Just two cave figures had previously been found in Catalonia, Salas-Altès says.
+
+“It was a big surprise,” she says.
+
+Today tourists’ access to the cave has been limited to protect the engravings, which were first discovered in 2019.
+
+
+![Josep Maria Vergès Bosch, a researcher at the Catalan Institute of Human Paleoecology and Social Evolution (IPHES-CERCA) in Spain, photographs the Paleolithic engravings at Gatoneres de Cal Palletes in Spain’s Cova de la Font Major.Míriam Salas-Altès/IPHES-CERCA](https://static.scientificamerican.com/dam/asset/a8f6208c-e6c1-43ee-ba6b-f1efebb422b1/cave-research.jpg?m=1793891832.985&amp;w=900)
+*Josep Maria Vergès Bosch, a researcher at the Catalan Institute of Human Paleoecology and Social Evolution (IPHES-CERCA) in Spain, photographs the Paleolithic engravings at Gatoneres de Cal Palletes in Spain’s Cova de la Font Major.Míriam Salas-Altès/IPHES-CERCA*
+
+
+Salas-Altès hopes to continue working to decipher the 280 engravings, as well as to understand the history of human presence in the cave. It’s unclear whether early humans used this cave simply for shelter, ritual practices or something else, she says.
+
+And there may be more engravings to find—some galleries within Cova de la Font Major, for instance, have been filled with sediment over the years, Salas-Altès says, and opening them up could reveal even more rock art.
+
+---
+### About the Author(s)
+*Jackie Flynn Mogensen is a breaking news reporter at Scientific American. Before joining SciAm, she was a science reporter at Mother Jones, where she received a National Academies Eric and Wendy Schmidt Award for Excellence in Science Communications in 2024. Mogensen holds a master’s degree in environmental communication and a bachelor’s degree in earth sciences from Stanford University. She is based in New York City.*
+
+*Subscriptions keep this engine running so we can continue to deliver thoughtful, rigorous and independent science journalism to you. In an era of viral misinformation, this work is crucial. If you value what we do, I hope you’ll consider joining us as a subscriber*

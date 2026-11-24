@@ -1,0 +1,52 @@
+---
+title: "Metal-rich deep-sea ‘nodules’ also harbor diverse ocean life"
+subtitle: "The finding, researchers say, should factor into plans to mine the seafloor for the metal-rich nodules"
+author: "Jackie Flynn Mogensen"
+date: "2026-11-11"
+category: "Oceans"
+read_time: "5 min read"
+hero_image: "https://static.scientificamerican.com/dam/asset/e109f758-a5f0-4d13-b6ba-c063c8337e01/nodules.png?m=1794430560.773&w=1200"
+source_url: "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/"
+slug: "metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life"
+---
+
+# Metal-rich deep-sea ‘nodules’ also harbor diverse ocean life
+
+*The finding, researchers say, should factor into plans to mine the seafloor for the metal-rich nodules*
+
+**By Jackie Flynn Mogensen** | Edited by Andrea Thompson &bull; **2026-11-11** &bull; 5 min read
+
+![Metal-rich deep-sea ‘nodules’ also harbor diverse ocean life](https://static.scientificamerican.com/dam/asset/e109f758-a5f0-4d13-b6ba-c063c8337e01/nodules.png?m=1794430560.773&w=1200)
+
+---
+
+These deep-sea ‘nodules’ are rich in critical minerals—and in ocean life
+
+
+![Polymetallic nodules in the Clarion-Clipperton Zone (CCZ). ROV Kiel 6000/GEOMAR/Kiel](https://static.scientificamerican.com/dam/asset/e109f758-a5f0-4d13-b6ba-c063c8337e01/nodules.png?m=1794430560.773&amp;w=600)
+*Polymetallic nodules in the Clarion-Clipperton Zone (CCZ). ROV Kiel 6000/GEOMAR/Kiel*
+
+
+Join Our Community of Science Lovers!
+
+Small clumps of rock and metal in the deep ocean known as “polymetallic nodules” are teeming with life, according to new research—a discovery that could affect plans to extract these nodules from the seafloor.
+
+The softball-size nodules, which take millions of years to form, are a potentially very valuable—and controversial—source of crucial metals such as manganese, copper, and more for deep-sea miners. These materials are a key component of electronics and could help meet the growing demand for technologies such as solar panels and batteries. But the practice has also raised concerns among researchers over the ecological impact of plucking nodules from the deep ocean.
+
+Now, in a study published in the journal Scientific Reports on Wednesday, researchers add a new wrinkle to the controversial idea: in an analysis of hundreds of nodules collected from a particularly desirable mining area of the Pacific Ocean known as the Clarion-Clipperton Zone, they found thousands of microscopic animals living among the rock crevices.
+
+A single nodule, the researchers found, contained an average of 17 animals but could be home to hundreds of creatures, including roundworms, tiny crustaceans, and more. One species was particularly common: a single-celled protist the researchers have called “Thurammina sp. 1.”
+
+The nodules, the study finds, provides a “distinct habitat” for critters that is different from the sediment around them. In fact, organisms collected 1,000 kilometers (about 621 miles) apart were more similar to each other than to communities in the sediment nearby, says study co-author Coral Diaz-Recio Lorenzo, a postdoctoral researcher at Sorbonne University in France. This suggests that the nodules themselves may be necessary for the survival of certain species, including Thurammina sp. 1.
+
+The diversity of life hiding within the nodules should factor into plans to mine them, the study authors argue. Under President Donald Trump, for instance, the U.S. has sought to expand deep-sea mining to reduce reliance on foreign mineral imports. But there are few rules in place for how to do this responsibly, and countries differ on their views.
+
+Japan, for example, is considering mining in its waters, whereas France has called for a ban on the practice. As Scientific American previously reported, other nations, such as Germany and Chile, have called for a pause, and the Pacific Island nations of Palau and Fiji have called for a moratorium. Meanwhile the firm Impossible Metals says it has tested an autonomous robot that can use artificial intelligence to retrieve nodules without disturbing nearby marine life.
+
+“Our findings point out that commercial mining may result in an irreversible loss of undescribed and unique biodiversity associated to nodules,” said senior author Sabine Gollner, a researcher at the Royal Netherland Institute for Sea Research (NIOZ) and an honorary professor at the University of Groningen in the Netherlands, in a statement. “This needs to be considered in environmental management of deep-sea mining.”
+
+---
+### About the Author(s)
+*Jackie Flynn Mogensen is a breaking news reporter at Scientific American. Before joining SciAm, she was a science reporter at Mother Jones, where she received a National Academies Eric and Wendy Schmidt Award for Excellence in Science Communications in 2024. Mogensen holds a master’s degree in environmental communication and a bachelor’s degree in earth sciences from Stanford University. She is based in New York City.*
+
+*Subscriptions keep this engine running so we can continue to deliver thoughtful, rigorous and independent science journalism to you. In an era of viral misinformation, this work is crucial. If you value what we do, I hope you’ll consider joining us as a subscriber*
