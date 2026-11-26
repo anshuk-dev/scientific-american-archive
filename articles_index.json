@@ -1,5 +1,18 @@
 [
   {
+    "slug": "the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy",
+    "title": "The hidden math behind this paradoxical Black Friday sale strategy",
+    "subtitle": "Game theory explains why price-matching offers could paradoxically cost consumers more and why many stores switch them off for Black Friday",
+    "author": "Jack Murtagh",
+    "date": "2026-11-26",
+    "category": "Science",
+    "read_time": "5 min read",
+    "hero_image": "https://static.scientificamerican.com/dam/asset/986f20f5-3f92-4981-9cab-c6ca9723047d/shutterstock_2534128121-friends-shopping.jpg?m=1795611535.336&w=1200",
+    "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+    "word_count": 1526,
+    "id": 1
+  },
+  {
     "slug": "do-you-need-to-be-worried-about-flying-for-thanksgiving-this-year-we-asked-the-experts",
     "title": "Do you need to be worried about flying for Thanksgiving this year? We asked the experts",
     "subtitle": "Holiday travel season this year is hitting in the wake of numerous tech and airline outages",
@@ -10,7 +23,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/m/190a8f188386d0df/original/GettyImages-2244762538-control-tower_web.jpeg?m=1795473196.636&w=1200",
     "source_url": "https://www.scientificamerican.com/article/do-you-need-to-be-worried-about-flying-for-thanksgiving-this-year-we-asked-the-experts/",
     "word_count": 969,
-    "id": 1
+    "id": 2
   },
   {
     "slug": "how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway",
@@ -23,7 +36,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0e245544-412c-4253-a351-c6fd7b1a3708/galileo-lead-image.jpg?m=1795578576.142&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway/",
     "word_count": 1838,
-    "id": 2
+    "id": 3
   },
   {
     "slug": "in-2022-nasa-struck-an-asteroid-now-we-are-finally-seeing-the-massive-impact-up-close",
@@ -36,7 +49,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/4cd1a014-f253-4784-a7e3-d2f3bac91403/hera-dimorphos.jpeg?m=1795636881.932&w=1200",
     "source_url": "https://www.scientificamerican.com/article/in-2022-nasa-struck-an-asteroid-now-we-are-finally-seeing-the-massive-impact-up-close/",
     "word_count": 870,
-    "id": 3
+    "id": 4
   },
   {
     "slug": "the-u-s-army-is-blowing-up-five-tons-of-toxic-lead-azide-in-iowa",
@@ -49,7 +62,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/18b940f5-ec50-4d89-82b7-397154b38aa4/army-lead-azide.jpg?m=1795621845.905&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-u-s-army-is-blowing-up-five-tons-of-toxic-lead-azide-in-iowa/",
     "word_count": 1063,
-    "id": 4
+    "id": 5
   },
   {
     "slug": "this-is-the-best-time-to-eat-thanksgiving-dinner-for-your-health",
@@ -62,7 +75,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/4f444505-ab4e-4910-ad9a-2ff7425070d5/meal-timing.jpg?m=1795464063.593&w=1200",
     "source_url": "https://www.scientificamerican.com/article/this-is-the-best-time-to-eat-thanksgiving-dinner-for-your-health/",
     "word_count": 942,
-    "id": 5
+    "id": 6
   },
   {
     "slug": "why-ais-proof-of-the-riemann-hypothesis-is-so-bittersweet",
@@ -75,7 +88,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/5c552fe7-4dda-459c-b13d-3fd650739e45/Riemann-Tattoo.png?m=1795623640.338&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-ais-proof-of-the-riemann-hypothesis-is-so-bittersweet/",
     "word_count": 1105,
-    "id": 6
+    "id": 7
   },
   {
     "slug": "lagging-cdc-vaccination-data-could-hamstring-doctors-as-flu-season-hits",
@@ -88,7 +101,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/731c71dd-23e5-41bb-96c8-b75b0a7a4083/Flu-shots.jpg?m=1795472219.989&w=1200",
     "source_url": "https://www.scientificamerican.com/article/lagging-cdc-vaccination-data-could-hamstring-doctors-as-flu-season-hits/",
     "word_count": 907,
-    "id": 7
+    "id": 8
   },
   {
     "slug": "lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change",
@@ -101,7 +114,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a99f09e6-b905-4b03-a62f-07524e9699ef/lightning.jpg?m=1795540232.322&w=1200",
     "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
     "word_count": 677,
-    "id": 8
+    "id": 9
   },
   {
     "slug": "read-the-age-of-alchemy-by-kit-chapman-with-scientific-american-in-december",
@@ -114,7 +127,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/520b052c-596f-488a-a4a9-0b035b8042de/AgeofAlchemyCover-1.jpeg?m=1795538690.201&w=1200",
     "source_url": "https://www.scientificamerican.com/article/read-the-age-of-alchemy-by-kit-chapman-with-scientific-american-in-december/",
     "word_count": 538,
-    "id": 9
+    "id": 10
   },
   {
     "slug": "secrecy-surrounds-claims-of-russias-push-for-nukes-in-space",
@@ -127,7 +140,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/m/48b96d691705964a/original/2EFWC02.jpg?m=1718208085.053&w=1200",
     "source_url": "https://www.scientificamerican.com/article/secrecy-surrounds-claims-of-russias-push-for-nukes-in-space/",
     "word_count": 1351,
-    "id": 10
+    "id": 11
   },
   {
     "slug": "slime-molds-beat-mathematicians-at-complex-problems",
@@ -140,7 +153,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/c3c63754-9c52-4aee-a373-9b279528554c/slime-mold.jpg?m=1795533556.559&w=1200",
     "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
     "word_count": 2085,
-    "id": 11
+    "id": 12
   },
   {
     "slug": "the-number-of-babies-getting-vaccinated-for-hepatitis-b-at-birth-is-dropping-precipitously",
@@ -153,7 +166,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/15cd1c57-ae18-449f-8f03-b005e444814e/Hep-B-vaccine.jpg?m=1795472962.021&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-number-of-babies-getting-vaccinated-for-hepatitis-b-at-birth-is-dropping-precipitously/",
     "word_count": 892,
-    "id": 12
+    "id": 13
   },
   {
     "slug": "who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest",
@@ -166,7 +179,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/2b432115-d492-424c-9ec5-ddbc3781c659/LEAD-LA_webresize.png?m=1795540446.508&w=1200",
     "source_url": "https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/",
     "word_count": 4209,
-    "id": 13
+    "id": 14
   },
   {
     "slug": "why-solving-the-riemann-hypothesis-wont-break-encryption",
@@ -179,7 +192,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/87949def-cfc6-4ec9-890c-3a2456de299c/swirling-bits.jpg?m=1795540079.836&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-solving-the-riemann-hypothesis-wont-break-encryption/",
     "word_count": 1067,
-    "id": 14
+    "id": 15
   },
   {
     "slug": "thanksgiving-holiday-travel-could-be-disrupted-by-floods-winds-and-rain",
@@ -192,7 +205,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/5ba4c519-c12c-460b-8661-8b509f5df64c/shutterstock_2230002975.jpg?m=1795469942.817&w=1200",
     "source_url": "https://www.scientificamerican.com/article/thanksgiving-holiday-travel-could-be-disrupted-by-floods-winds-and-rain/",
     "word_count": 776,
-    "id": 15
+    "id": 16
   },
   {
     "slug": "whats-really-driving-the-ebola-outbreak",
@@ -205,7 +218,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/acb585cc-1244-4bb3-8864-7996189c9da4/ebola.jpg?m=1795209761.543&w=1200",
     "source_url": "https://www.scientificamerican.com/article/whats-really-driving-the-ebola-outbreak/",
     "word_count": 1551,
-    "id": 16
+    "id": 17
   },
   {
     "slug": "earth-just-saw-the-most-anomalously-hot-day-ever-on-record",
@@ -218,7 +231,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/48fca854-4e5b-4c3a-ab32-1d6debb8948c/nov20_temp_anomaly_graphic_leadImage.png?m=1795381145.473&w=1200",
     "source_url": "https://www.scientificamerican.com/article/earth-just-saw-the-most-anomalously-hot-day-ever-on-record/",
     "word_count": 955,
-    "id": 17
+    "id": 18
   },
   {
     "slug": "listen-to-the-sounds-of-a-baby-star-as-it-explodes-into-life",
@@ -231,7 +244,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/10e53fa8-80a4-4694-a3ea-9da9caec4341/Carina-Nebula-mp4loop-fallback.jpg?m=1795211730.988&w=1200",
     "source_url": "https://www.scientificamerican.com/article/listen-to-the-sounds-of-a-baby-star-as-it-explodes-into-life/",
     "word_count": 911,
-    "id": 18
+    "id": 19
   },
   {
     "slug": "quantum-physics-can-now-prove-where-you-really-are",
@@ -244,7 +257,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/fd58a826-4f3c-4d26-8b13-3a121f21462d/quantum-pinpointing-NIST-press.jpg?m=1795446779.753&w=1200",
     "source_url": "https://www.scientificamerican.com/article/quantum-physics-can-now-prove-where-you-really-are/",
     "word_count": 1093,
-    "id": 19
+    "id": 20
   },
   {
     "slug": "math-puzzle-longest-shuffle",
@@ -257,7 +270,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/m/1bb911b80f1a6a99/original/flurry-of-cards.jpg?m=1757009692.084&w=1200",
     "source_url": "https://www.scientificamerican.com/article/math-puzzle-longest-shuffle/",
     "word_count": 842,
-    "id": 20
+    "id": 21
   },
   {
     "slug": "what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry",
@@ -270,7 +283,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/d4538634-ad8a-48c7-a362-6b58ad296ba7/Uranus.jpg?m=1795213639.701&w=1200",
     "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
     "word_count": 847,
-    "id": 21
+    "id": 22
   },
   {
     "slug": "ai-just-solved-the-real-navier-stokes-problem",
@@ -283,7 +296,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
     "source_url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
     "word_count": 735,
-    "id": 22
+    "id": 23
   },
   {
     "slug": "anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math",
@@ -296,7 +309,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&w=1200",
     "source_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
     "word_count": 1180,
-    "id": 23
+    "id": 24
   },
   {
     "slug": "dueling-claims-of-riemann-hypothesis-proofs-emerge",
@@ -309,7 +322,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/5a454f85-c214-4a50-baa8-5ad368ab6e35/shutterstock_2026898477-Converted.jpg?m=1795204023.103&w=1200",
     "source_url": "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/",
     "word_count": 608,
-    "id": 24
+    "id": 25
   },
   {
     "slug": "our-solar-systems-doomsday-may-come-sooner-than-we-thought",
@@ -322,7 +335,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/2a932040-ebf7-4d9b-9832-bac5f15edfb6/shutterstock_2848264637.jpg?m=1795115445.279&w=1200",
     "source_url": "https://www.scientificamerican.com/article/our-solar-systems-doomsday-may-come-sooner-than-we-thought/",
     "word_count": 1566,
-    "id": 25
+    "id": 26
   },
   {
     "slug": "the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest",
@@ -335,7 +348,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/64e45f50-d1c5-4a9f-ad48-60b52541abcc/riemann-proven.jpg?m=1795211310.647&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
     "word_count": 803,
-    "id": 26
+    "id": 27
   },
   {
     "slug": "two-probes-are-about-to-arrive-at-mercury-for-an-up-close-look-at-this-puzzling-planet",
@@ -348,7 +361,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/caa58007-4fea-4b3d-943c-12712275a63b/BepiColumbo.jpg?m=1795127982.588&w=1200",
     "source_url": "https://www.scientificamerican.com/article/two-probes-are-about-to-arrive-at-mercury-for-an-up-close-look-at-this-puzzling-planet/",
     "word_count": 1717,
-    "id": 27
+    "id": 28
   },
   {
     "slug": "what-the-riemann-hypothesis-proof-really-means-about-ai-and-the-future",
@@ -361,7 +374,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0da4a6d7-37e6-4bb8-a0f6-39a50b5826f3/AI-Brain.jpg?m=1795199923.893&w=1200",
     "source_url": "https://www.scientificamerican.com/article/what-the-riemann-hypothesis-proof-really-means-about-ai-and-the-future/",
     "word_count": 1251,
-    "id": 28
+    "id": 29
   },
   {
     "slug": "a-watershed-moment-researchers-unveil-first-of-its-kind-blood-test-for-cte",
@@ -374,7 +387,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/298a0f88-ef5c-4692-8080-5e6d8eda3ae2/tau-clusters.jpg?m=1795115164.537&w=1200",
     "source_url": "https://www.scientificamerican.com/article/a-watershed-moment-researchers-unveil-first-of-its-kind-blood-test-for-cte/",
     "word_count": 926,
-    "id": 29
+    "id": 30
   },
   {
     "slug": "ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science",
@@ -387,7 +400,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
     "source_url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
     "word_count": 1440,
-    "id": 30
+    "id": 31
   },
   {
     "slug": "astronomers-just-witnessed-a-dying-star-gobble-up-its-neighbor-in-real-time",
@@ -400,7 +413,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/e75b1bd7-64ed-46ee-b510-3e44368231d5/2026-132_StellarMerger_4Panel_02.jpg?m=1795110826.024&w=1200",
     "source_url": "https://www.scientificamerican.com/article/astronomers-just-witnessed-a-dying-star-gobble-up-its-neighbor-in-real-time/",
     "word_count": 1060,
-    "id": 31
+    "id": 32
   },
   {
     "slug": "chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips",
@@ -413,7 +426,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/e167122f-aadf-4c51-b37d-8b81d87efd63/colorful-chip.jpg?m=1795108665.043&w=1200",
     "source_url": "https://www.scientificamerican.com/article/chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips/",
     "word_count": 1405,
-    "id": 32
+    "id": 33
   },
   {
     "slug": "el-nino-and-king-tides-will-tear-up-californias-coast-this-winter",
@@ -426,7 +439,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/1a320a18-e53e-463d-9f3e-6669a93e29c3/Cali-wave-loop-still-fallback.jpg?m=1795033861.149&w=1200",
     "source_url": "https://www.scientificamerican.com/article/el-nino-and-king-tides-will-tear-up-californias-coast-this-winter/",
     "word_count": 1609,
-    "id": 33
+    "id": 34
   },
   {
     "slug": "faa-ground-stop-suggests-how-risky-air-traffic-control-upgrades-can-be",
@@ -439,7 +452,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/849fffa8-9154-4a9b-bc9d-98c3e5854efc/air-traffic-control-tower-at-night.jpg?m=1795125338.102&w=1200",
     "source_url": "https://www.scientificamerican.com/article/faa-ground-stop-suggests-how-risky-air-traffic-control-upgrades-can-be/",
     "word_count": 1421,
-    "id": 34
+    "id": 35
   },
   {
     "slug": "the-ai-supertelescope-that-could-transform-the-universe",
@@ -452,7 +465,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
     "word_count": 1830,
-    "id": 35
+    "id": 36
   },
   {
     "slug": "the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know",
@@ -465,7 +478,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/47ddf8b2-2de0-4061-abc4-acde007aae0e/US-Army.jpg?m=1795126203.617&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/",
     "word_count": 962,
-    "id": 36
+    "id": 37
   },
   {
     "slug": "voyager-1-is-a-light-day-away-what-now",
@@ -478,7 +491,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/m/317c9cbc259ddf7f/original/GettyImages-1339204532_WEB.jpg?m=1795115585.937&w=1200",
     "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
     "word_count": 853,
-    "id": 37
+    "id": 38
   },
   {
     "slug": "weve-been-wrong-about-how-language-is-produced-in-the-brain-for-150-years",
@@ -491,7 +504,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/1dd1b533-e1fc-47bc-b70b-a37561dcd0b8/language-communication.jpg?m=1795113706.32&w=1200",
     "source_url": "https://www.scientificamerican.com/article/weve-been-wrong-about-how-language-is-produced-in-the-brain-for-150-years/",
     "word_count": 1235,
-    "id": 38
+    "id": 39
   },
   {
     "slug": "ancient-fossils-reveal-homo-erectus-survived-in-china-some-200-000-years-longer-than-we-thought",
@@ -504,7 +517,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/178c2202-20f7-4f5e-a4e0-332276f0f64f/naixan-cave.jpeg?m=1795015655.382&w=1200",
     "source_url": "https://www.scientificamerican.com/article/ancient-fossils-reveal-homo-erectus-survived-in-china-some-200-000-years-longer-than-we-thought/",
     "word_count": 1064,
-    "id": 39
+    "id": 40
   },
   {
     "slug": "bernie-sanders-previews-democratic-investigations-into-rfk-jr-amid-nationwide-measles-outbreaks",
@@ -517,7 +530,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/956769bd-52fb-49a4-a500-b16c1e687ffb/Bernie-Sanders.jpg?m=1795024759.969&w=1200",
     "source_url": "https://www.scientificamerican.com/article/bernie-sanders-previews-democratic-investigations-into-rfk-jr-amid-nationwide-measles-outbreaks/",
     "word_count": 745,
-    "id": 40
+    "id": 41
   },
   {
     "slug": "how-bad-would-spacexs-million-ai-satellites-be-for-earths-atmosphere",
@@ -530,7 +543,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/d75951d0-97af-42dc-932a-3026e99b0350/AI_Sat_Solar_v5.jpg?m=1795006188.02&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-bad-would-spacexs-million-ai-satellites-be-for-earths-atmosphere/",
     "word_count": 1884,
-    "id": 41
+    "id": 42
   },
   {
     "slug": "key-senate-committee-refuses-to-vote-on-trumps-nominee-to-lead-the-national-science-foundation-jim-oneill",
@@ -543,7 +556,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/e7ddb6ad-91e2-498f-917d-5de97db11f7f/NSF.jpg?m=1795017314.237&w=1200",
     "source_url": "https://www.scientificamerican.com/article/key-senate-committee-refuses-to-vote-on-trumps-nominee-to-lead-the-national-science-foundation-jim-oneill/",
     "word_count": 848,
-    "id": 42
+    "id": 43
   },
   {
     "slug": "the-vulcan-rocket-failure-could-haunt-u-s-spaceflight-for-years-to-come",
@@ -556,7 +569,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/796d1aef-7d3d-4e7b-9d2b-7a927ffd087a/54034882121_5cf4b9c413_k.jpg?m=1795027492.538&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-vulcan-rocket-failure-could-haunt-u-s-spaceflight-for-years-to-come/",
     "word_count": 1494,
-    "id": 43
+    "id": 44
   },
   {
     "slug": "this-beguiling-chessboard-math-problem-is-still-puzzling-after-120-years",
@@ -569,7 +582,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a63c96b6-f94d-4580-ad94-1e12014eda0d/Chessboard.jpg?m=1794955085.583&w=1200",
     "source_url": "https://www.scientificamerican.com/article/this-beguiling-chessboard-math-problem-is-still-puzzling-after-120-years/",
     "word_count": 1402,
-    "id": 44
+    "id": 45
   },
   {
     "slug": "voyager-1-reaches-one-light-day-milestone",
@@ -582,7 +595,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/1670fb96-ed6f-4b15-a8f5-d0de5da979f2/1_Voyager_artist_concept-copy.jpeg?m=1776700021.479&w=1200",
     "source_url": "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/",
     "word_count": 1810,
-    "id": 45
+    "id": 46
   },
   {
     "slug": "why-so-many-critical-tech-outages-are-happening-all-at-once",
@@ -595,7 +608,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/89118e90-363c-44d4-9af5-82d9e38d3bb9/tech-outages.jpg?m=1795023125.79&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-so-many-critical-tech-outages-are-happening-all-at-once/",
     "word_count": 1054,
-    "id": 46
+    "id": 47
   },
   {
     "slug": "why-the-bipartisan-baaja-permitting-bill-could-quietly-revolutionize-nuclear-power",
@@ -608,7 +621,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/64e97447-e366-46c7-9e82-2472aa9880f1/shutterstock_2595863299.jpg?m=1795007202.686&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-the-bipartisan-baaja-permitting-bill-could-quietly-revolutionize-nuclear-power/",
     "word_count": 1486,
-    "id": 47
+    "id": 48
   },
   {
     "slug": "a-52-000-year-old-runaway-star-was-a-long-standing-cosmic-cold-case-now-scientists-think-theyve-cracked-it",
@@ -621,7 +634,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/d0670ec2-49da-449b-8608-23f4af301c78/saw1226_0127_Zwar01a.jpg?m=1794002194.727&w=1200",
     "source_url": "https://www.scientificamerican.com/article/a-52-000-year-old-runaway-star-was-a-long-standing-cosmic-cold-case-now-scientists-think-theyve-cracked-it/",
     "word_count": 3181,
-    "id": 48
+    "id": 49
   },
   {
     "slug": "betelgeuse-and-its-betel-buddy-could-light-up-earths-skies",
@@ -634,7 +647,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/276d40a1-b75f-4ad2-baf9-318c8d46dd54/btlgsb.jpg?m=1791312449.982&w=1200",
     "source_url": "https://www.scientificamerican.com/article/betelgeuse-and-its-betel-buddy-could-light-up-earths-skies/",
     "word_count": 1060,
-    "id": 49
+    "id": 50
   },
   {
     "slug": "colon-cancer-in-young-people-might-have-a-distinct-and-dangerous-biology",
@@ -647,7 +660,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/e6fa7460-d569-4702-b57e-5a6367e2228e/saw1226_0127_Youn01.jpg?m=1793995879.589&w=1200",
     "source_url": "https://www.scientificamerican.com/article/colon-cancer-in-young-people-might-have-a-distinct-and-dangerous-biology/",
     "word_count": 3574,
-    "id": 50
+    "id": 51
   },
   {
     "slug": "december-2026-science-history-from-50-100-and-150-years-ago",
@@ -660,7 +673,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3ed5b6c2-39a4-4186-ad2c-d64f8bb8c418/saw1226_0127Hist01.jpg?m=1794256784.064&w=1200",
     "source_url": "https://www.scientificamerican.com/article/december-2026-science-history-from-50-100-and-150-years-ago/",
     "word_count": 1306,
-    "id": 51
+    "id": 52
   },
   {
     "slug": "how-do-heat-pumps-work-an-illustrated-guide",
@@ -673,7 +686,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/eb62e51f-77f2-478f-bd88-ae6301d715b1/saw1226_0127Gsci_lead.png?m=1794257545.057&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-do-heat-pumps-work-an-illustrated-guide/",
     "word_count": 1350,
-    "id": 52
+    "id": 53
   },
   {
     "slug": "infinitesimals-are-essential-to-calculus-but-are-they-even-real",
@@ -686,7 +699,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/c7c284ee-ce75-447f-b78d-2382fda1d3fe/infinitesimal.jpg?m=1794243693.899&w=1200",
     "source_url": "https://www.scientificamerican.com/article/infinitesimals-are-essential-to-calculus-but-are-they-even-real/",
     "word_count": 1287,
-    "id": 53
+    "id": 54
   },
   {
     "slug": "no-one-knows-how-the-grand-canyon-formed",
@@ -699,7 +712,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/ce250166-e6d1-41ff-b505-9224fecfa630/saw1226_0127Papp01.jpg?m=1793733559.565&w=1200",
     "source_url": "https://www.scientificamerican.com/article/no-one-knows-how-the-grand-canyon-formed/",
     "word_count": 3870,
-    "id": 54
+    "id": 55
   },
   {
     "slug": "poem-let-x-be",
@@ -712,7 +725,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/692919b5-7953-4d39-9dcd-724ce3be6763/saw1226_0127_Metr01.jpg?m=1794259570.187&w=1200",
     "source_url": "https://www.scientificamerican.com/article/poem-let-x-be/",
     "word_count": 459,
-    "id": 55
+    "id": 56
   },
   {
     "slug": "readers-respond-to-the-july-august-2026-issue",
@@ -725,7 +738,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/c0fde1f0-5e4b-4054-9277-374fff1f3d20/saw1226_0127-Letters-IssueCover.jpg?m=1793584972.887&w=1200",
     "source_url": "https://www.scientificamerican.com/article/readers-respond-to-the-july-august-2026-issue/",
     "word_count": 1221,
-    "id": 56
+    "id": 57
   },
   {
     "slug": "science-crossword-not-so-introductory-calculus",
@@ -738,7 +751,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078&w=1200",
     "source_url": "https://www.scientificamerican.com/article/science-crossword-not-so-introductory-calculus/",
     "word_count": 287,
-    "id": 57
+    "id": 58
   },
   {
     "slug": "the-double-standard-that-explains-the-complex-psychology-of-cover-ups",
@@ -751,7 +764,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/31008a03-e464-4647-a3df-68ea5dfc4614/saw1226_0127Svob01.jpg?m=1793998692.649&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-double-standard-that-explains-the-complex-psychology-of-cover-ups/",
     "word_count": 3839,
-    "id": 58
+    "id": 59
   },
   {
     "slug": "u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health",
@@ -764,7 +777,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/8a8f2838-7e43-46c0-a689-3dfc42f83d82/measles-rash-child.jpg?m=1794937582.492&w=1200",
     "source_url": "https://www.scientificamerican.com/article/u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health/",
     "word_count": 1165,
-    "id": 59
+    "id": 60
   },
   {
     "slug": "what-a-cataclysmic-volcanic-eruption-could-teach-us-about-solar-geoengineering",
@@ -777,7 +790,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a3577a66-58b9-4dd7-b1d1-bc3f28c19c36/saw1226_0127Dick01.jpg?m=1794000785.005&w=1200",
     "source_url": "https://www.scientificamerican.com/article/what-a-cataclysmic-volcanic-eruption-could-teach-us-about-solar-geoengineering/",
     "word_count": 2656,
-    "id": 60
+    "id": 61
   },
   {
     "slug": "what-animals-reveal-about-the-origins-of-music",
@@ -790,7 +803,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/ea560cee-c0bd-4717-9f92-ef97cb279d33/saw1226_0127Yuha01.jpg?m=1794003602.524&w=1200",
     "source_url": "https://www.scientificamerican.com/article/what-animals-reveal-about-the-origins-of-music/",
     "word_count": 4390,
-    "id": 61
+    "id": 62
   },
   {
     "slug": "whats-the-bare-minimum-workout-for-healthy-aging",
@@ -803,7 +816,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/43fb4e29-61e2-4c57-a399-83562750d18a/saw1226_0127SoH01.jpg?m=1794259528.774&w=1200",
     "source_url": "https://www.scientificamerican.com/article/whats-the-bare-minimum-workout-for-healthy-aging/",
     "word_count": 1337,
-    "id": 62
+    "id": 63
   },
   {
     "slug": "why-nvidia-is-betting-on-silicon-photonics-to-scale-ai",
@@ -816,7 +829,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/34fde3a6-3621-48ab-920c-bf89549c985a/saw1226_0127Indu01.jpg?m=1793730128.139&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-nvidia-is-betting-on-silicon-photonics-to-scale-ai/",
     "word_count": 2538,
-    "id": 63
+    "id": 64
   },
   {
     "slug": "why-the-pentagon-is-hunting-for-gallium-in-a-mountain-of-red-mud",
@@ -829,7 +842,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/f5843046-fd76-4b92-909c-4ad553a69fce/saw1226_0127SoW01.jpg?m=1794259624.828&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-the-pentagon-is-hunting-for-gallium-in-a-mountain-of-red-mud/",
     "word_count": 1312,
-    "id": 64
+    "id": 65
   },
   {
     "slug": "why-time-runs-faster-on-mountains-and-how-optical-clocks-could-map-earth",
@@ -842,7 +855,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/719c5c1e-e8d7-4dfb-b259-e21f7ea13fe4/saw1226_0127Blue01.jpg?m=1793996760.318&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-time-runs-faster-on-mountains-and-how-optical-clocks-could-map-earth/",
     "word_count": 3713,
-    "id": 65
+    "id": 66
   },
   {
     "slug": "why-we-still-need-humans-in-math",
@@ -855,7 +868,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/bb5adb4b-bc86-40d6-8563-01e72472fddc/saw1226_0127-FromTheEditor-IssueCover.jpg?m=1793584153.222&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-we-still-need-humans-in-math/",
     "word_count": 995,
-    "id": 66
+    "id": 67
   },
   {
     "slug": "can-the-amazon-rainforest-survive-the-largest-el-nino-in-living-memory",
@@ -868,7 +881,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/f307ef50-a3bb-43c1-bf2f-e61947758ec5/shutterstock_1583896708.jpg?m=1794609540.285&w=1200",
     "source_url": "https://www.scientificamerican.com/article/can-the-amazon-rainforest-survive-the-largest-el-nino-in-living-memory/",
     "word_count": 1580,
-    "id": 67
+    "id": 68
   },
   {
     "slug": "hormone-therapy-may-improve-cognition-after-menopause",
@@ -881,7 +894,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/61ef63d9-9698-4e75-9eb2-955f09298bc1/aging-brain.jpg?m=1794783484.277&w=1200",
     "source_url": "https://www.scientificamerican.com/article/hormone-therapy-may-improve-cognition-after-menopause/",
     "word_count": 822,
-    "id": 68
+    "id": 69
   },
   {
     "slug": "it-runs-doom-is-more-than-a-meme-the-reason-lies-in-its-engineering",
@@ -894,7 +907,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/f29bbebe-5e1f-4cf2-b701-f69276d77ff3/Doom-playing-90s.jpg?m=1794840000.995&w=1200",
     "source_url": "https://www.scientificamerican.com/article/it-runs-doom-is-more-than-a-meme-the-reason-lies-in-its-engineering/",
     "word_count": 1357,
-    "id": 69
+    "id": 70
   },
   {
     "slug": "look-up-the-leonids-meteor-shower-peaks-tonight",
@@ -907,7 +920,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/db34c298-913d-4315-94a4-4a1505cde4f5/Leonids.jpg?m=1794857331.542&w=1200",
     "source_url": "https://www.scientificamerican.com/article/look-up-the-leonids-meteor-shower-peaks-tonight/",
     "word_count": 596,
-    "id": 70
+    "id": 71
   },
   {
     "slug": "math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway",
@@ -920,7 +933,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3fe4c4cd-b942-4d99-a83a-414ac96ae998/ai-math-still.jpg?m=1794846748.118&w=1200",
     "source_url": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
     "word_count": 1031,
-    "id": 71
+    "id": 72
   },
   {
     "slug": "neanderthal-dna-linked-to-lower-risk-of-schizophrenia-in-modern-humans",
@@ -933,7 +946,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/d9ee4926-cf02-463d-8992-e9117c2b111d/neanderthal-skull.jpg?m=1794859411.158&w=1200",
     "source_url": "https://www.scientificamerican.com/article/neanderthal-dna-linked-to-lower-risk-of-schizophrenia-in-modern-humans/",
     "word_count": 832,
-    "id": 72
+    "id": 73
   },
   {
     "slug": "the-symmetry-of-the-universe-may-have-broken-in-the-first-seconds-of-time",
@@ -946,7 +959,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/c97c7068-cd3d-41e5-a07e-0a0b9cca8fd1/Cosmic-nebula.jpg?m=1794600237.204&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-symmetry-of-the-universe-may-have-broken-in-the-first-seconds-of-time/",
     "word_count": 1205,
-    "id": 73
+    "id": 74
   },
   {
     "slug": "voyager-1-approaches-a-light-day-milestone",
@@ -959,7 +972,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/426ef3de-9279-46c5-8e00-af949b8b2c7a/voyager-1-advisory-image-2-nov-10.jpg?m=1794845624.715&w=1200",
     "source_url": "https://www.scientificamerican.com/article/voyager-1-approaches-a-light-day-milestone/",
     "word_count": 2203,
-    "id": 74
+    "id": 75
   },
   {
     "slug": "scientists-might-have-discovered-what-makes-ai-so-effective-at-chess",
@@ -972,7 +985,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
     "source_url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
     "word_count": 733,
-    "id": 75
+    "id": 76
   },
   {
     "slug": "why-your-brain-sometimes-craves-sour-tastes",
@@ -985,7 +998,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/5362a7b2-301b-4b87-882d-c43ebf7c5c6d/sourness.jpg?m=1794604638.639&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-your-brain-sometimes-craves-sour-tastes/",
     "word_count": 983,
-    "id": 76
+    "id": 77
   },
   {
     "slug": "is-there-a-better-way-of-diagnosing-obesity-than-bmi",
@@ -998,7 +1011,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/48fa4880-2328-4d0f-afdd-000ab317b513/BMI-alternative.jpg?m=1794510268.295&w=1200",
     "source_url": "https://www.scientificamerican.com/article/is-there-a-better-way-of-diagnosing-obesity-than-bmi/",
     "word_count": 1043,
-    "id": 77
+    "id": 78
   },
   {
     "slug": "math-puzzle-slippery-slopes",
@@ -1011,7 +1024,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/65abe12d-8e4b-4501-a546-461406e839de/saw1226Adva34_leadImage.png?m=1794499854.33&w=1200",
     "source_url": "https://www.scientificamerican.com/article/math-puzzle-slippery-slopes/",
     "word_count": 751,
-    "id": 78
+    "id": 79
   },
   {
     "slug": "see-new-images-from-the-euclid-space-telescope-spanning-one-billion-cosmic-objects",
@@ -1024,7 +1037,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/8a790fc9-a63d-4b98-98df-ce9912f3d35f/abell.jpg?m=1794611309.989&w=1200",
     "source_url": "https://www.scientificamerican.com/article/see-new-images-from-the-euclid-space-telescope-spanning-one-billion-cosmic-objects/",
     "word_count": 1205,
-    "id": 79
+    "id": 80
   },
   {
     "slug": "we-beat-screwworm-once-heres-how-were-trying-to-do-it-again",
@@ -1037,7 +1050,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/72fee80f-e589-4622-8603-59bb4104d77c/Screwworm-Illustration_SciAm.jpg?m=1794604119.637&w=1200",
     "source_url": "https://www.scientificamerican.com/article/we-beat-screwworm-once-heres-how-were-trying-to-do-it-again/",
     "word_count": 2700,
-    "id": 80
+    "id": 81
   },
   {
     "slug": "why-the-brains-ability-to-picture-images-may-influence-decision-making",
@@ -1050,7 +1063,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/1b42eed4-0d84-4aab-abf2-14be5af10497/mental-imagery.jpg?m=1794611250.865&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-the-brains-ability-to-picture-images-may-influence-decision-making/",
     "word_count": 1309,
-    "id": 81
+    "id": 82
   },
   {
     "slug": "can-spacex-catch-its-starship",
@@ -1063,7 +1076,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/9ae18c4b-2320-4d13-98b2-648a41e06d31/StarshipFlight15.png?m=1794845855.558&w=1200",
     "source_url": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/",
     "word_count": 1389,
-    "id": 82
+    "id": 83
   },
   {
     "slug": "faa-grounds-all-u-s-flights-days-after-expanding-its-ai-air-traffic-system",
@@ -1076,7 +1089,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/abf2dcaa-174d-4a49-941e-1e2b4a7c3e47/air-traffic-ground-stop.jpg?m=1794840360.231&w=1200",
     "source_url": "https://www.scientificamerican.com/article/faa-grounds-all-u-s-flights-days-after-expanding-its-ai-air-traffic-system/",
     "word_count": 993,
-    "id": 83
+    "id": 84
   },
   {
     "slug": "no-other-animal-walks-like-humans-do-heres-why",
@@ -1089,7 +1102,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/c81ac5da-7f07-4152-afc4-37d8e3f0e947/saw1226_0127Adva09.jpg?m=1793637552.336&w=1200",
     "source_url": "https://www.scientificamerican.com/article/no-other-animal-walks-like-humans-do-heres-why/",
     "word_count": 715,
-    "id": 84
+    "id": 85
   },
   {
     "slug": "record-breaking-simulation-sheds-light-on-cosmic-dark-ages",
@@ -1102,7 +1115,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/43186e37-7afa-414f-af0b-4e17d1ce3e15/lumina_200cMpc_vpeak3_dmdens_gasvel.jpg?m=1794518141.519&w=1200",
     "source_url": "https://www.scientificamerican.com/article/record-breaking-simulation-sheds-light-on-cosmic-dark-ages/",
     "word_count": 1583,
-    "id": 85
+    "id": 86
   },
   {
     "slug": "the-euclid-space-telescope-captures-nearly-a-billion-celestial-objects-in-stunning-detail",
@@ -1115,7 +1128,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3fcef9b9-42db-49ba-bc0b-d232b2a1c9c7/Euclid.jpg?m=1794605497.28&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-euclid-space-telescope-captures-nearly-a-billion-celestial-objects-in-stunning-detail/",
     "word_count": 990,
-    "id": 86
+    "id": 87
   },
   {
     "slug": "ai-is-disrupting-math-is-science-next",
@@ -1128,7 +1141,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/48fc913c-8680-4a02-82af-9e9cb982d092/shutterstock_355336133-WEB.jpg?m=1794498450.674&w=1200",
     "source_url": "https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/",
     "word_count": 2016,
-    "id": 87
+    "id": 88
   },
   {
     "slug": "can-a-microdose-of-ozempic-help-you-live-longer",
@@ -1141,7 +1154,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/aad79bbd-54fc-4d7d-abc0-25bfab7ade31/GLP-1-concept.jpg?m=1794501923.348&w=1200",
     "source_url": "https://www.scientificamerican.com/article/can-a-microdose-of-ozempic-help-you-live-longer/",
     "word_count": 1136,
-    "id": 88
+    "id": 89
   },
   {
     "slug": "jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker",
@@ -1154,7 +1167,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/cb53f905-8add-4c98-b8d6-5ef8ccca49cd/Jensen-Huang-resigns.jpg?m=1794501365.77&w=1200",
     "source_url": "https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/",
     "word_count": 1031,
-    "id": 89
+    "id": 90
   },
   {
     "slug": "this-asteroid-was-born-at-the-dawn-of-the-solar-system",
@@ -1167,7 +1180,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/352fca31-3c64-4f47-9660-dc03e270bd96/saw1226_0127Adva04.jpg?m=1793586666.039&w=1200",
     "source_url": "https://www.scientificamerican.com/article/this-asteroid-was-born-at-the-dawn-of-the-solar-system/",
     "word_count": 816,
-    "id": 90
+    "id": 91
   },
   {
     "slug": "why-did-a-brooklyn-building-collapse-so-suddenly-experts-weigh-in",
@@ -1180,7 +1193,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/01d62c74-da54-4cb3-b1fb-2b178187876d/Brooklyn-collapse.jpg?m=1794515400.082&w=1200",
     "source_url": "https://www.scientificamerican.com/article/why-did-a-brooklyn-building-collapse-so-suddenly-experts-weigh-in/",
     "word_count": 886,
-    "id": 91
+    "id": 92
   },
   {
     "slug": "el-nino-will-push-temperatures-above-1-5-degrees-c-will-we-ever-come-back-down",
@@ -1193,7 +1206,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/d12a63cd-4744-4768-b2dd-d790a5c0618d/Screenshot-2026-11-10-at-2-35-43-PM.jpg?m=1794340372.594&w=1200",
     "source_url": "https://www.scientificamerican.com/article/el-nino-will-push-temperatures-above-1-5-degrees-c-will-we-ever-come-back-down/",
     "word_count": 1728,
-    "id": 92
+    "id": 93
   },
   {
     "slug": "metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life",
@@ -1206,7 +1219,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/e109f758-a5f0-4d13-b6ba-c063c8337e01/nodules.png?m=1794430560.773&w=1200",
     "source_url": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
     "word_count": 826,
-    "id": 93
+    "id": 94
   },
   {
     "slug": "mountain-heights-across-the-country-are-about-to-change-gravity-is-to-blame",
@@ -1219,7 +1232,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/45662038-79e3-4162-957a-018e1b7cbc1c/saw1226_0127Adva32.jpg?m=1793637885.477&w=1200",
     "source_url": "https://www.scientificamerican.com/article/mountain-heights-across-the-country-are-about-to-change-gravity-is-to-blame/",
     "word_count": 854,
-    "id": 94
+    "id": 95
   },
   {
     "slug": "newfound-invisible-object-in-space-could-be-a-rare-supermassive-neutron-star",
@@ -1232,7 +1245,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/f4164c6f-f8aa-4a4c-8656-d06f8fa3b8f4/Neutron-star.jpg?m=1794426854.561&w=1200",
     "source_url": "https://www.scientificamerican.com/article/newfound-invisible-object-in-space-could-be-a-rare-supermassive-neutron-star/",
     "word_count": 1302,
-    "id": 95
+    "id": 96
   },
   {
     "slug": "openais-shepherds-affirm-blockbuster-physics-result",
@@ -1245,7 +1258,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
     "source_url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
     "word_count": 1003,
-    "id": 96
+    "id": 97
   },
   {
     "slug": "5-things-to-know-going-into-the-cop31-climate-meeting",
@@ -1258,7 +1271,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/8f8ffd4f-4e4f-4f83-8e26-7f3e1a4405f4/COP31.jpg?m=1794266670.504&w=1200",
     "source_url": "https://www.scientificamerican.com/article/5-things-to-know-going-into-the-cop31-climate-meeting/",
     "word_count": 1375,
-    "id": 97
+    "id": 98
   },
   {
     "slug": "oil-prices-are-so-high-that-co2-emissions-from-fossil-fuels-are-dropping",
@@ -1271,7 +1284,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0568184f-facd-477e-a1b1-e90f4f21441d/gas-prices.jpg?m=1794326360.083&w=1200",
     "source_url": "https://www.scientificamerican.com/article/oil-prices-are-so-high-that-co2-emissions-from-fossil-fuels-are-dropping/",
     "word_count": 686,
-    "id": 98
+    "id": 99
   },
   {
     "slug": "the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status",
@@ -1284,7 +1297,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/37f0a026-d8aa-473b-9dc2-3f6d746d87a8/Measles-protest.jpg?m=1794334826.254&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status/",
     "word_count": 1334,
-    "id": 99
+    "id": 100
   },
   {
     "slug": "virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin",
@@ -1297,7 +1310,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/9214c0f2-f6e7-4a98-b460-61af5f03fc78/saw1226_0127Adva12.jpg?m=1793586315.924&w=1200",
     "source_url": "https://www.scientificamerican.com/article/virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin/",
     "word_count": 838,
-    "id": 100
+    "id": 101
   },
   {
     "slug": "was-isaac-newtons-contribution-to-calculus-stolen",
@@ -1310,7 +1323,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/19a8dd62-6df3-4e87-9dcb-e9a4b3a6563e/Isaac-Newton.png?m=1793996082.152&w=1200",
     "source_url": "https://www.scientificamerican.com/article/was-isaac-newtons-contribution-to-calculus-stolen/",
     "word_count": 1129,
-    "id": 101
+    "id": 102
   },
   {
     "slug": "bursts-of-pink-noise-during-sleep-could-help-your-brain-clean-itself",
@@ -1323,7 +1336,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/90ae4e83-d0ea-4bc6-8750-45eca36867ed/saw1226_0127Adva07.jpg?m=1793637210.36&w=1200",
     "source_url": "https://www.scientificamerican.com/article/bursts-of-pink-noise-during-sleep-could-help-your-brain-clean-itself/",
     "word_count": 780,
-    "id": 102
+    "id": 103
   },
   {
     "slug": "eli-lilly-shows-glp-1-weight-loss-pill-foundayo-can-dramatically-improve-sleep-apnea",
@@ -1336,7 +1349,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3c8958d4-7b98-4ada-883b-35af65aa24b6/eli-lilly.jpg?m=1794249907.196&w=1200",
     "source_url": "https://www.scientificamerican.com/article/eli-lilly-shows-glp-1-weight-loss-pill-foundayo-can-dramatically-improve-sleep-apnea/",
     "word_count": 835,
-    "id": 103
+    "id": 104
   },
   {
     "slug": "the-coin-flipping-trick-that-counts-the-internet",
@@ -1349,7 +1362,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/d763c2f9-e647-4647-8662-375762deebc4/internet-coin-flip_graphic_leadImage.png?m=1794234476.803&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-coin-flipping-trick-that-counts-the-internet/",
     "word_count": 1649,
-    "id": 104
+    "id": 105
   },
   {
     "slug": "acorns-not-deer-can-predict-a-rise-in-lyme-spreading-ticks",
@@ -1362,7 +1375,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/495dfb69-c48d-4db7-b1cc-3b6164a1d4e1/saw-GettyImages-130888795.jpg?m=1793997273.101&w=1200",
     "source_url": "https://www.scientificamerican.com/article/acorns-not-deer-can-predict-a-rise-in-lyme-spreading-ticks/",
     "word_count": 794,
-    "id": 105
+    "id": 106
   },
   {
     "slug": "math-puzzle-secret-formula",
@@ -1375,7 +1388,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3b98b863-01f7-4b5c-bc7a-4c7d87167981/Jumbled-Number-Blocks-RF.jpg?m=1793986701.28&w=1200",
     "source_url": "https://www.scientificamerican.com/article/math-puzzle-secret-formula/",
     "word_count": 908,
-    "id": 106
+    "id": 107
   },
   {
     "slug": "nasa-reveals-new-lunar-rover-promise-to-launch-to-moon-in-2028",
@@ -1388,7 +1401,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/03b5b91c-d661-4609-b072-88fa4edfa162/NASA-PROMISE.png?m=1794092029.07&w=1200",
     "source_url": "https://www.scientificamerican.com/article/nasa-reveals-new-lunar-rover-promise-to-launch-to-moon-in-2028/",
     "word_count": 1193,
-    "id": 107
+    "id": 108
   },
   {
     "slug": "nothing-can-be-fully-transparent-physicists-discover",
@@ -1401,7 +1414,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/2c4960c5-123f-4405-9f76-b579dab87c5c/Glass-windows.jpg?m=1793996817.484&w=1200",
     "source_url": "https://www.scientificamerican.com/article/nothing-can-be-fully-transparent-physicists-discover/",
     "word_count": 902,
-    "id": 108
+    "id": 109
   },
   {
     "slug": "the-mathematical-trick-that-explains-how-to-find-a-needle-in-a-haystack",
@@ -1414,7 +1427,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/bec29edd-4664-46e7-9125-88d4b1692f66/Haystack.jpg?m=1793999597.435&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-mathematical-trick-that-explains-how-to-find-a-needle-in-a-haystack/",
     "word_count": 898,
-    "id": 109
+    "id": 110
   },
   {
     "slug": "have-astronomers-spotted-planet-nine",
@@ -1427,7 +1440,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/9bdf29cb-96ca-4fd5-abf9-368f9d08bbf0/Planet_nine_artistic_plain.jpg?m=1794240794.01&w=1200",
     "source_url": "https://www.scientificamerican.com/article/have-astronomers-spotted-planet-nine/",
     "word_count": 1690,
-    "id": 110
+    "id": 111
   },
   {
     "slug": "this-brain-change-can-make-foxes-act-like-pet-dogs",
@@ -1440,7 +1453,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/ced47e26-3c9b-4718-bd7b-8e4b440c7959/tame-foxes.jpg?m=1794240312.837&w=1200",
     "source_url": "https://www.scientificamerican.com/article/this-brain-change-can-make-foxes-act-like-pet-dogs/",
     "word_count": 813,
-    "id": 111
+    "id": 112
   },
   {
     "slug": "ancient-humans-used-cannabis-in-burial-rituals-2-800-years-ago",
@@ -1453,7 +1466,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/4d7b8d3a-c733-426d-8895-325719bc6f22/early-cannabis.jpg?m=1793901801.886&w=1200",
     "source_url": "https://www.scientificamerican.com/article/ancient-humans-used-cannabis-in-burial-rituals-2-800-years-ago/",
     "word_count": 1021,
-    "id": 112
+    "id": 113
   },
   {
     "slug": "how-george-clinton-mothership-landed-onstage-in-1976",
@@ -1466,7 +1479,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/abf0c168-a31d-48a5-b291-60a0ca16c27b/george-clinton-mothership.jpg?m=1793727163.074&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-george-clinton-mothership-landed-onstage-in-1976/",
     "word_count": 1476,
-    "id": 113
+    "id": 114
   },
   {
     "slug": "hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave",
@@ -1479,7 +1492,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0446bdc1-d2d6-4d62-a6c0-0eadd09cc899/horse.jpg?m=1793891434.85&w=1200",
     "source_url": "https://www.scientificamerican.com/article/hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave/",
     "word_count": 1095,
-    "id": 114
+    "id": 115
   },
   {
     "slug": "the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean",
@@ -1492,7 +1505,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/04a7b155-8b1e-4fd6-9960-e4eff8d44a53/sea-turtle.jpg?m=1793901923.03&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean/",
     "word_count": 733,
-    "id": 115
+    "id": 116
   },
   {
     "slug": "these-are-the-doctors-and-scientists-elected-in-the-2026-midterms",
@@ -1505,7 +1518,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a70984cb-36ad-4c90-a468-10173415baa6/capital.jpg?m=1793899755.172&w=1200",
     "source_url": "https://www.scientificamerican.com/article/these-are-the-doctors-and-scientists-elected-in-the-2026-midterms/",
     "word_count": 1477,
-    "id": 116
+    "id": 117
   },
   {
     "slug": "2026-election-results-show-widespread-opposition-to-ai-data-centers",
@@ -1518,7 +1531,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/448ae054-02ac-46f4-830d-288e90609f93/data-center-referendum-election-2026.jpg?m=1793826674.959&w=1200",
     "source_url": "https://www.scientificamerican.com/article/2026-election-results-show-widespread-opposition-to-ai-data-centers/",
     "word_count": 738,
-    "id": 117
+    "id": 118
   },
   {
     "slug": "could-spacexs-retirement-of-falcon-9-spark-a-launch-crisis",
@@ -1531,7 +1544,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/836cbb6b-342f-49fa-8cac-0236d013899d/shutterstock_2765232793.jpg?m=1793812478.347&w=1200",
     "source_url": "https://www.scientificamerican.com/article/could-spacexs-retirement-of-falcon-9-spark-a-launch-crisis/",
     "word_count": 2134,
-    "id": 118
+    "id": 119
   },
   {
     "slug": "how-does-mental-fatigue-begin-in-the-brain",
@@ -1544,7 +1557,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/2312cc4f-a829-4e1c-a4c1-f012fcc97fc0/mental-fatigue.jpg?m=1793802117.43&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-does-mental-fatigue-begin-in-the-brain/",
     "word_count": 852,
-    "id": 119
+    "id": 120
   },
   {
     "slug": "nasas-james-webb-space-telescope-is-wobbly-scientists-have-a-fix-that-could-reveal-new-alien-worlds",
@@ -1557,7 +1570,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/417a1aad-5d1b-446f-bb91-f93d791e5934/51-Eridani-b-through-FLIP.png?m=1793805911.245&w=1200",
     "source_url": "https://www.scientificamerican.com/article/nasas-james-webb-space-telescope-is-wobbly-scientists-have-a-fix-that-could-reveal-new-alien-worlds/",
     "word_count": 1110,
-    "id": 120
+    "id": 121
   },
   {
     "slug": "nasas-swift-telescope-plunges-back-to-earth",
@@ -1570,7 +1583,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0db817bb-3c0a-4675-8920-53828cbe9a64/Swift_in_space_15_ac.jpg?m=1793810600.686&w=1200",
     "source_url": "https://www.scientificamerican.com/article/nasas-swift-telescope-plunges-back-to-earth/",
     "word_count": 1008,
-    "id": 121
+    "id": 122
   },
   {
     "slug": "science-advocates-react-to-democrats-historic-midterm-rout-its-a-new-day-in-washington",
@@ -1583,7 +1596,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/895f2433-0c52-47fd-a5eb-a31f43d43340/Amy-Acton.jpg?m=1793815630.799&w=1200",
     "source_url": "https://www.scientificamerican.com/article/science-advocates-react-to-democrats-historic-midterm-rout-its-a-new-day-in-washington/",
     "word_count": 1224,
-    "id": 122
+    "id": 123
   },
   {
     "slug": "the-polar-vortex-is-about-to-go-haywire",
@@ -1596,7 +1609,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/21d7a670-d3f6-49cd-83ab-d580cf896915/polar-vortex.png?m=1793813844.685&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-polar-vortex-is-about-to-go-haywire/",
     "word_count": 769,
-    "id": 123
+    "id": 124
   },
   {
     "slug": "the-super-el-nino-is-already-soaking-the-u-s-expect-more-flooding-to-come",
@@ -1609,7 +1622,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/257e08fe-0b28-415c-96de-af2d2fa1045b/Florida-el-nino-floods.jpg?m=1793815137.496&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-super-el-nino-is-already-soaking-the-u-s-expect-more-flooding-to-come/",
     "word_count": 968,
-    "id": 124
+    "id": 125
   },
   {
     "slug": "do-cats-fart-an-investigation-into-the-mysteries-of-feline-flatulence",
@@ -1622,7 +1635,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a9827bbd-a02d-4653-96ec-841ee4c8cae9/shutterstock_51179374.jpg?m=1793649836.823&w=1200",
     "source_url": "https://www.scientificamerican.com/article/do-cats-fart-an-investigation-into-the-mysteries-of-feline-flatulence/",
     "word_count": 1217,
-    "id": 125
+    "id": 126
   },
   {
     "slug": "how-hackers-are-turning-grocery-store-freezers-into-heaters",
@@ -1635,7 +1648,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/ab782514-9028-4740-baa1-cc32fde163af/empty-fridges-in-Europe.jpg?m=1793736494.066&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-hackers-are-turning-grocery-store-freezers-into-heaters/",
     "word_count": 1160,
-    "id": 126
+    "id": 127
   },
   {
     "slug": "incan-children-were-given-hallucinogens-before-they-were-sacrificed-to-the-gods",
@@ -1648,7 +1661,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/86dc5614-77a3-46a0-a11d-d5c2c95217f3/Inca-mummies.jpg?m=1793731313.529&w=1200",
     "source_url": "https://www.scientificamerican.com/article/incan-children-were-given-hallucinogens-before-they-were-sacrificed-to-the-gods/",
     "word_count": 907,
-    "id": 127
+    "id": 128
   },
   {
     "slug": "new-yorks-first-measles-death-in-30-years-is-an-omen-of-worse-to-come",
@@ -1661,7 +1674,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/m/737e74fcc2043ce3/original/Measles-virus.jpg?m=1793722156.98&w=1200",
     "source_url": "https://www.scientificamerican.com/article/new-yorks-first-measles-death-in-30-years-is-an-omen-of-worse-to-come/",
     "word_count": 871,
-    "id": 128
+    "id": 129
   },
   {
     "slug": "self-flying-cargo-planes-are-coming",
@@ -1674,7 +1687,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0288921f-20e3-4b20-abf9-35492ba8da0d/self-flying-plane-reliable-robotics.JPG?m=1793641220.44&w=1200",
     "source_url": "https://www.scientificamerican.com/article/self-flying-cargo-planes-are-coming/",
     "word_count": 1309,
-    "id": 129
+    "id": 130
   },
   {
     "slug": "the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake",
@@ -1687,7 +1700,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/b4239dc2-5b4e-4e42-b664-aaf46249d796/Capitol-Building.jpg?m=1793661579.604&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake/",
     "word_count": 1161,
-    "id": 130
+    "id": 131
   },
   {
     "slug": "the-most-impractical-calculator-in-the-world-only-has-two-buttons",
@@ -1700,7 +1713,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3bf307e3-735f-4157-b53d-c39404eece61/calculator-pp.png?m=1792774268.219&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-most-impractical-calculator-in-the-world-only-has-two-buttons/",
     "word_count": 1548,
-    "id": 131
+    "id": 132
   },
   {
     "slug": "how-to-tell-if-a-voice-recording-is-ai-generated",
@@ -1713,7 +1726,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/09e21147-be42-4e80-bc96-caee7c15c47b/AI-voice-clone_graphic_leadImage.png?m=1793628091.076&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
     "word_count": 1228,
-    "id": 132
+    "id": 133
   },
   {
     "slug": "this-bull-and-donkey-show-interspecies-homosexual-bonds-can-run-deep",
@@ -1726,7 +1739,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/bf56a6ec-f320-4d93-8b9b-97954f349e5e/bull-donkey.jpeg?m=1793634815.396&w=1200",
     "source_url": "https://www.scientificamerican.com/article/this-bull-and-donkey-show-interspecies-homosexual-bonds-can-run-deep/",
     "word_count": 921,
-    "id": 133
+    "id": 134
   },
   {
     "slug": "boo-see-the-universes-spookiest-sights-in-time-for-halloween",
@@ -1739,7 +1752,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/320e8b5e-3afc-4780-8c3d-22ab2512083e/phantom-galaxy.jpg?m=1793388620.74&w=1200",
     "source_url": "https://www.scientificamerican.com/article/boo-see-the-universes-spookiest-sights-in-time-for-halloween/",
     "word_count": 860,
-    "id": 134
+    "id": 135
   },
   {
     "slug": "how-to-fall-back-this-weekend-without-losing-your-mind",
@@ -1752,7 +1765,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/6a2c543e-1e9a-4513-924a-1a1feac18f23/DST.jpg?m=1793392957.605&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-to-fall-back-this-weekend-without-losing-your-mind/",
     "word_count": 882,
-    "id": 135
+    "id": 136
   },
   {
     "slug": "math-puzzle-mysterious-pyramid",
@@ -1765,7 +1778,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/9dc5a392-6c45-48f5-8cb9-ec74c649cc41/mysterious-pyramid_graphic_m1.png?m=1793192019.796&w=1200",
     "source_url": "https://www.scientificamerican.com/article/math-puzzle-mysterious-pyramid/",
     "word_count": 552,
-    "id": 136
+    "id": 137
   },
   {
     "slug": "an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
@@ -1778,7 +1791,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0d00b657-4e17-4972-a4bf-a57cc0e4ca1b/reverseengineeredcomputer.jpg?m=1793285097.344&w=1200",
     "source_url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/",
     "word_count": 1629,
-    "id": 137
+    "id": 138
   },
   {
     "slug": "paleo-lighting-can-fix-your-brains-clock-after-daylight-savings",
@@ -1791,7 +1804,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/940fee31-f194-4854-afad-d5bab46cf166/shutterstock_2344285819.jpg?m=1793375339.493&w=1200",
     "source_url": "https://www.scientificamerican.com/article/paleo-lighting-can-fix-your-brains-clock-after-daylight-savings/",
     "word_count": 1365,
-    "id": 138
+    "id": 139
   },
   {
     "slug": "the-worlds-biggest-cities-are-sinking-is-yours-one-of-them",
@@ -1804,7 +1817,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/dfcfd90e-194a-4cb6-9def-723a91b69273/Mexico-City-RF.jpg?m=1793376218.071&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-worlds-biggest-cities-are-sinking-is-yours-one-of-them/",
     "word_count": 963,
-    "id": 139
+    "id": 140
   },
   {
     "slug": "this-october-is-on-track-to-be-the-hottest-ever-recorded",
@@ -1817,7 +1830,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0b2fa56b-504f-426b-857f-54d8e4115e2a/sun-heat.jpg?m=1793374440.914&w=1200",
     "source_url": "https://www.scientificamerican.com/article/this-october-is-on-track-to-be-the-hottest-ever-recorded/",
     "word_count": 629,
-    "id": 140
+    "id": 141
   },
   {
     "slug": "whats-the-scariest-thing-in-the-universe",
@@ -1830,7 +1843,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/bf09d10e-e5c1-4f63-9f70-9cdf22702335/witch-nebula.jpeg?m=1793302382.829&w=1200",
     "source_url": "https://www.scientificamerican.com/article/whats-the-scariest-thing-in-the-universe/",
     "word_count": 1770,
-    "id": 141
+    "id": 142
   },
   {
     "slug": "can-the-worlds-religions-survive-the-existence-of-aliens",
@@ -1843,7 +1856,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/0e8e89df-df19-4ec3-976f-01c216eceb3e/Alien-religion.jpg?m=1793227264.262&w=1200",
     "source_url": "https://www.scientificamerican.com/article/can-the-worlds-religions-survive-the-existence-of-aliens/",
     "word_count": 1650,
-    "id": 142
+    "id": 143
   },
   {
     "slug": "five-things-you-need-to-know-about-the-trump-administrations-rollback-of-methane-regulations",
@@ -1856,7 +1869,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/b0808ea5-947d-4315-91fa-67fd408133d6/methane.jpg?m=1793227947.468&w=1200",
     "source_url": "https://www.scientificamerican.com/article/five-things-you-need-to-know-about-the-trump-administrations-rollback-of-methane-regulations/",
     "word_count": 1366,
-    "id": 143
+    "id": 144
   },
   {
     "slug": "mathematicians-find-an-infinite-number-of-ramanujan-equations",
@@ -1869,7 +1882,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/3461546d-370c-4996-b463-9b73457a07e8/Trefoil-knot.jpeg?m=1793229201.894&w=1200",
     "source_url": "https://www.scientificamerican.com/article/mathematicians-find-an-infinite-number-of-ramanujan-equations/",
     "word_count": 1884,
-    "id": 144
+    "id": 145
   },
   {
     "slug": "oldest-known-mars-rock-is-a-rosetta-stone-for-the-red-planets-watery-past",
@@ -1882,7 +1895,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/c4457079-cb47-4227-9f64-933f4b1ed1d4/Mars.jpg?m=1793719496.967&w=1200",
     "source_url": "https://www.scientificamerican.com/article/oldest-known-mars-rock-is-a-rosetta-stone-for-the-red-planets-watery-past/",
     "word_count": 1280,
-    "id": 145
+    "id": 146
   },
   {
     "slug": "scientists-can-now-rewire-living-brains",
@@ -1895,7 +1908,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/de037fbe-ad03-4b89-b9f1-9e8153c38247/Neurons-firing.jpg?m=1793216430.205&w=1200",
     "source_url": "https://www.scientificamerican.com/article/scientists-can-now-rewire-living-brains/",
     "word_count": 1583,
-    "id": 146
+    "id": 147
   },
   {
     "slug": "7-spooky-bat-facts-right-in-time-for-halloween",
@@ -1908,7 +1921,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/ddb7b41b-91e1-44ca-92d0-f539ffd524ff/bat.jpg?m=1793206470.397&w=1200",
     "source_url": "https://www.scientificamerican.com/article/7-spooky-bat-facts-right-in-time-for-halloween/",
     "word_count": 1212,
-    "id": 147
+    "id": 148
   },
   {
     "slug": "animal-borne-shamonda-virus-infects-and-kills-a-human-for-the-first-time",
@@ -1921,7 +1934,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a04fa69c-683a-4511-a8c9-dbed4b05e90d/shamonda-virus.jpg?m=1793206350.872&w=1200",
     "source_url": "https://www.scientificamerican.com/article/animal-borne-shamonda-virus-infects-and-kills-a-human-for-the-first-time/",
     "word_count": 1113,
-    "id": 148
+    "id": 149
   },
   {
     "slug": "landmark-study-finds-three-in-four-nfl-players-die-with-cte",
@@ -1934,7 +1947,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/98b891c6-9c45-4b16-9834-f74e39b1e600/football-helmet.jpg?m=1793199576.231&w=1200",
     "source_url": "https://www.scientificamerican.com/article/landmark-study-finds-three-in-four-nfl-players-die-with-cte/",
     "word_count": 1020,
-    "id": 149
+    "id": 150
   },
   {
     "slug": "rfk-jr-loosens-restrictions-for-six-popular-peptides-bypassing-the-fda",
@@ -1947,7 +1960,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/355497d0-e866-4ee2-8e7b-26247d56e11e/RFK-Jr-peptides.jpg?m=1793215634.936&w=1200",
     "source_url": "https://www.scientificamerican.com/article/rfk-jr-loosens-restrictions-for-six-popular-peptides-bypassing-the-fda/",
     "word_count": 813,
-    "id": 150
+    "id": 151
   },
   {
     "slug": "sci-fi-horror-collides-with-small-town-politics-in-john-scalzis-monsters-of-ohio",
@@ -1960,7 +1973,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/74a6a503-2104-43c9-a7ce-51723c513bda/Monsters-of-Ohio-Book-Cover.jpg?m=1793122324.039&w=1200",
     "source_url": "https://www.scientificamerican.com/article/sci-fi-horror-collides-with-small-town-politics-in-john-scalzis-monsters-of-ohio/",
     "word_count": 1564,
-    "id": 151
+    "id": 152
   },
   {
     "slug": "cdc-deputy-director-jennifer-shuford-resigns-after-just-four-months-in-the-role",
@@ -1973,7 +1986,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/6fc23f4a-8572-4ce2-86d5-e65bf94fc5e7/Jennifer-Shuford.jpg?m=1793122104.593&w=1200",
     "source_url": "https://www.scientificamerican.com/article/cdc-deputy-director-jennifer-shuford-resigns-after-just-four-months-in-the-role/",
     "word_count": 686,
-    "id": 152
+    "id": 153
   },
   {
     "slug": "dueling-proofs-from-openai-and-anthropic-astound-scientists",
@@ -1986,7 +1999,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
     "source_url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
     "word_count": 1440,
-    "id": 153
+    "id": 154
   },
   {
     "slug": "how-a-16th-century-pirate-accidentally-spawned-a-centuries-old-math-problem",
@@ -1999,7 +2012,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/e8040964-49ac-41d3-a58b-3c339e81d874/Cannonballs-Proof-positive-pirates.jpg?m=1793206138.854&w=1200",
     "source_url": "https://www.scientificamerican.com/article/how-a-16th-century-pirate-accidentally-spawned-a-centuries-old-math-problem/",
     "word_count": 1449,
-    "id": 154
+    "id": 155
   },
   {
     "slug": "openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem",
@@ -2012,7 +2025,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/be949c97-6aba-446d-bd3a-f2e111fa9566/Quantum-AI-math-blob.jpeg?m=1793127414.515&w=1200",
     "source_url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
     "word_count": 1763,
-    "id": 155
+    "id": 156
   },
   {
     "slug": "the-vera-c-rubin-observatory-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet",
@@ -2025,7 +2038,7 @@
     "hero_image": "https://static.scientificamerican.com/dam/asset/1b95f8e0-5515-4876-97e2-ba136ea12b0b/2026-ED138.jpg?m=1793135683.168&w=1200",
     "source_url": "https://www.scientificamerican.com/article/the-vera-c-rubin-observatory-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet/",
     "word_count": 869,
-    "id": 156
+    "id": 157
   },
   {
     "slug": "weirdly-accelerating-space-rock-keeps-puzzling-astronomers",
@@ -2038,6 +2051,6 @@
     "hero_image": "",
     "source_url": "https://www.scientificamerican.com/article/weirdly-accelerating-space-rock-keeps-puzzling-astronomers/",
     "word_count": 1381,
-    "id": 157
+    "id": 158
   }
 ]
